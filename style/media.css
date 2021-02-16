@@ -1,0 +1,5180 @@
+@media all and (max-width:1600px) {
+    .page4 .flower2 {
+        right: 4vw;
+    }
+
+    .page2 .cont .text_box {
+        left: -4.5vw;
+    }
+
+    .page3 .rode {
+        bottom: 15vw;
+    }
+
+    .page3 .piramide {
+        top: 32vw;
+    }
+
+    .page3 .cow_section .hills {
+        width: 43%;
+        height: 31px;
+        bottom: 18px;
+    }
+
+    .page4 .tadj {
+        top: 21.2vw;
+    }
+
+    .page4 .rode {
+        height: 18vw;
+        top: -16vw;
+        padding: 0 11vw 4vw 0;
+    }
+
+    .page4 .blue_cow_block .hills {
+        width: 95%;
+        height: 40px;
+        background-position: 101% 50%;
+        bottom: -7px;
+    }
+
+    .page4 .india_cow_block .hills {
+        width: 85%;
+    }
+
+    .page5 .tadj {
+        top: 39.5vw;
+    }
+
+    .page5 .rode {
+        top: -3.2vw;
+    }
+
+    .page5 .cow_section {
+        bottom: 17vw;
+    }
+
+    .page5 .blue_cow_block .hills {
+        width: 93%;
+        height: 36px;
+    }
+
+    .page6 .tadj {
+        top: 42vw;
+        padding: 9vw 9vw 0 0;
+    }
+
+    .page7 .blue_cow_block .hills {
+        bottom: -7px;
+    }
+
+    .page6 h1 {
+        margin: 0 0vw 0 0;
+    }
+
+    .page6 .rode {
+        height: 34.2vw;
+        top: 22vw;
+    }
+
+    .page6 .blue_cow_block .hills {
+        bottom: -4px;
+    }
+
+    .page6 .greece_cow_block .man {
+        right: 5vw;
+    }
+
+    .page6 .cow_section .greece_cow_block {
+        right: 0;
+    }
+
+    .page7 .rode {
+        top: -47vw;
+        padding: 4vw 0 0 20vw;
+    }
+
+    .page7 .tadj {
+        top: 50vw;
+    }
+
+    .page7 .cow_section .spain_cow_p3 {
+        width: 27%;
+        height: 25vw;
+    }
+
+    .page7 .matador {
+        width: 24%;
+        height: 20.4vw;
+        top: 3.7vw;
+        left: 0.6vw;
+    }
+
+    .page7 .cow_section .spain_cow_block {
+        width: 64.6vw;
+        top: 5vw;
+        left: 0;
+    }
+
+    .page7 .cow_section .blue_cow_block {
+        width: 35vw;
+    }
+
+    .page8 .rode {
+        height: 32.5vw;
+        top: -32.5vw;
+    }
+
+    .page8 .fence {
+        top: 21vw;
+    }
+
+    .page8 .tadj {
+        top: 65vw;
+    }
+
+    .page8 .blue_cow_block .hills {
+        bottom: -15px;
+    }
+
+    .page9 .cont_sec .right_box {
+        width: 30%;
+        background-position: 110% 43%;
+    }
+
+    .page9 .cont_sec .text_box {
+        margin: 0 -2vw 0 0;
+    }
+
+    .page9 .rode {
+        top: -36.7vw;
+    }
+
+    .page9 .tadj {
+        top: 67vw;
+    }
+
+    .page9 .sun {
+        top: -29.5vw;
+        left: 6vw;
+    }
+
+    .page9 .cow_section {
+        bottom: 22.5vw;
+    }
+
+    .page9 .blue_cow_block .hills {
+        bottom: 0px;
+    }
+
+    @keyframes wave {
+        0% {
+            background-position: 0;
+        }
+
+        100% {
+            background-position: 1600px;
+        }
+    }
+}
+
+@media all and (max-width:1440px) {
+
+    @keyframes cow_from_top {
+        0% {
+            bottom: -80%;
+            opacity: 0;
+        }
+
+        90% {
+            opacity: 1;
+        }
+
+        100% {
+            bottom: 18vw;
+        }
+    }
+
+    @keyframes grace_from_top {
+        0% {
+            bottom: -70%;
+            opacity: 0;
+        }
+
+        90% {
+            opacity: 1;
+        }
+
+        100% {
+            bottom: 8vw;
+        }
+    }
+
+    .blue_cow {
+        bottom: 18vw;
+    }
+
+    .hills_three {
+        padding: 5vw 0 0vw 6vw;
+        height: 24vw;
+        width: 75%;
+    }
+
+    .grass_box {
+        bottom: 8vw;
+    }
+
+    .cloud_p2 {
+        height: 39vw;
+        margin: -11vw 0 0 0vw;
+    }
+
+    .page2 .cont .text_box {
+        left: -3.5vw;
+    }
+
+    .sec_betwen {
+        margin: -5vw 0 0;
+    }
+
+    .sec_betwen .grass_box {
+        bottom: 29vw;
+    }
+
+    .sec_betwen .grace_sec1 {
+        top: 9vw;
+    }
+
+    .sec_betwen .bigGrace2 {
+        top: 0vw;
+    }
+
+    .sec_betwen .grace_sec2 {
+        top: -9vw;
+    }
+
+    .sec_betwen .bigGrace1 {
+        left: 1vw;
+        top: 1vw;
+    }
+
+    .page3 .piramide {
+        top: 37vw;
+        height: 29.5vw;
+        width: 87%;
+        padding: 15vw 8.5vw 0 0;
+    }
+
+    .page3 .rode {
+        bottom: 20vw;
+    }
+
+    .page3 .cow_section {
+        margin: 6vw 0 0;
+    }
+
+    .page3 .cow_section .hills {
+        width: 42%;
+        height: 28px;
+        bottom: 16px;
+    }
+
+    .page3 .cow_section .broun_cow_block {
+        top: 0vw;
+    }
+
+    .fix_cow_p3 {
+        left: 18vw;
+    }
+
+    .page3 .cow_section .blue_cow_block {
+        width: 41.6vw;
+    }
+
+    .page3 .cow_section .brown_cow {
+        width: 59%;
+        height: 24vw;
+        margin: 0 -8vw 0 0;
+    }
+
+    .page4 .tadj {
+        top: 24.2vw;
+    }
+
+    .page4 .rode {
+        height: 20vw;
+        top: -19vw;
+        padding: 2vw 11vw 0vw 0;
+    }
+
+    .page4 .blue_cow_block .hills {
+        width: 94%;
+        height: 31px;
+        background-position: 101% 50%;
+        bottom: -6px;
+    }
+
+    .page4 .cow_section .india_cow_p3 {
+        width: 70%;
+        height: 25vw;
+        right: 0;
+        top: -4px;
+    }
+
+    .page4 .india_cow_block .hills {
+        bottom: 0;
+        width: 83%;
+        height: 29px;
+    }
+
+    .page4 .flower1 {
+        left: 12.5vw;
+    }
+
+    .page4 .cont_sec {
+        bottom: 0;
+    }
+
+    .page4 .left_box {
+        top: 0;
+    }
+
+    .page4 .left_box .flower {
+        bottom: 0vw;
+    }
+
+    .page4 .right_box .flower {
+        bottom: 0vw;
+        height: 14vw;
+    }
+
+    .page4 .flower2 {
+        right: 4.5vw;
+        margin: 0 0 11vw;
+    }
+
+    .fix_cow_p3 {
+        bottom: 16.5vw;
+    }
+
+    .page5 .mexican {
+        top: -9vw;
+    }
+
+    .page5 .tadj {
+        top: 49vw;
+    }
+
+    .page5 .rode {
+        top: -3.2vw;
+    }
+
+    .page5 .cow_section {
+        bottom: 20vw;
+    }
+
+    .page5 .cow_section .blue_cow_block {
+        width: 44vw;
+        top: 3vw;
+    }
+
+    .page5 .cow_section .mexico_cow_block {
+        width: 24.6vw;
+    }
+
+    .page5 .cow_section .mexico_cow_p3 {
+        top: 1.3vw;
+    }
+
+    .page5 .blue_cow_block .hills {
+        width: 89%;
+        left: 0;
+    }
+
+    .page5 .mexico_cow_block .hills {
+        bottom: -47px;
+        left: 0;
+    }
+
+    .page6 .tadj {
+        height: 28vw;
+        width: 71%;
+        top: 46vw;
+        padding: 5vw 11vw 0 0;
+    }
+
+    .page6 .rode {
+        height: 39.2vw;
+        top: 24vw;
+    }
+
+    .page6 .cow_section {
+        bottom: 23.5vw;
+    }
+
+    .page6 .cow_section .blue_cow_block {
+        width: 48vw;
+    }
+
+    .page6 .cow_section .greece_cow_block {
+        top: 4vw;
+    }
+
+    .page6 .tadj .tree_box {
+        bottom: 9vw;
+    }
+
+    .fix_cow_p6 {
+        bottom: 24.5vw;
+        left: 27vw;
+    }
+
+    .page7 .tadj {
+        top: 56vw;
+        height: 25vw;
+    }
+
+    .page7 .rode {
+        height: 23vw;
+        top: -53vw;
+        padding: 4vw 0 0 24vw;
+    }
+
+    .page7 .cow_section .blue_cow_block {
+        width: 36vw;
+    }
+
+    .page7 .cow_section .spain_cow_block {
+        width: 60.6vw;
+        top: 10vw;
+        left: -4vw;
+    }
+
+    .page7 .cow_section {
+        bottom: 27.5vw;
+    }
+
+
+    .page7 .matador {
+        width: 26%;
+        top: 2.7vw;
+    }
+
+    .page7 .blue_cow_block .hills {
+        height: 65px;
+        background-position: 154% 52%;
+        background-size: 112%;
+        bottom: -15px;
+    }
+
+    .fix_cow_p7 {
+        bottom: 28.5vw;
+        left: 18.3vw;
+    }
+
+    .page8 .rode {
+        height: 37.5vw;
+        top: -35vw;
+    }
+
+    .page8 .tadj {
+        top: 75vw;
+        padding: 2vw 0 0vw 33vw;
+    }
+
+    .page8 .house {
+        top: -5vw;
+    }
+
+    .page8 .cow_section .blue_cow_block {
+        width: 46vw;
+    }
+
+    .page8 .cow_section {
+        bottom: 26vw;
+    }
+
+    .page8 .cow_section .american_cow_block {
+        top: 12vw;
+    }
+
+    .page8 .cont_sec .dust {
+        top: -5.9vw;
+    }
+
+    .page8 .fence {
+        top: 25vw;
+    }
+
+    .fix_cow_p8 {
+        bottom: 26.5vw;
+    }
+
+    .page9 .rode {
+        top: -43.2vw;
+        height: 34vw;
+    }
+
+    .page9 .tadj {
+        top: 66vw;
+        height: 34vw;
+    }
+
+    .page9 .sun {
+        top: -33.5vw;
+        left: 6vw;
+    }
+
+    .page9 .cow_section {
+        bottom: 24.5vw;
+    }
+
+    .page9 .cow_section .blue_cow_block {
+        width: 48vw;
+    }
+
+    .page9 .blue_cow_block .hills {
+        background-position: 147% 50%;
+    }
+
+    .cloud_p10 {
+        bottom: 54.2vw;
+    }
+
+    .fix_cow_p10 {
+        bottom: 37vw;
+    }
+}
+
+@media all and (max-width:1440px) and (max-height:800px) {
+    .page3 .cow_section .brown_cow {
+        width: 59%;
+        height: 25vw;
+        margin: 0 -8vw 0 0;
+        bottom: -1vw;
+    }
+
+    @keyframes cow_from_top {
+        0% {
+            bottom: -80%;
+            opacity: 0;
+        }
+
+        90% {
+            opacity: 1;
+        }
+
+        100% {
+            bottom: 16vw;
+        }
+    }
+
+    .blue_cow {
+        bottom: 16vw;
+    }
+
+    .page2 .cont {
+        top: -7vw;
+    }
+
+    .page2 .cont .text_box img {
+        width: 55px;
+    }
+
+    .page2 .cont h1 {
+        font-size: 2.8vw;
+    }
+
+    .page2 .cont .text_box,
+    .page3 .cont_sec .text_box,
+    .page4 .cont_sec .text_box,
+    .page5 .cont_sec .text_box,
+    .page6 .cont_sec .text_box,
+    .page7 .cont_sec .text_box,
+    .page8 .cont_sec .text_box,
+    .page9 .cont_sec .text_box {
+        font-size: 1.2vw;
+    }
+
+    .sec_betwen {
+        margin: -5vw 0 0;
+    }
+
+    .sec_betwen .grass_box {
+        width: 55%;
+        height: 17.6vw;
+        bottom: 31vw;
+    }
+
+    .sec_betwen .bigGrace1 {
+        height: 4vw;
+        left: 0.5vw;
+        top: 2vw;
+    }
+
+    .sec_betwen .bigGrace11 {
+        height: 4.3vw;
+    }
+
+    .sec_betwen .bigGrace2 {
+        height: 11vw;
+        left: -6vw;
+        top: 2vw;
+    }
+
+    .sec_betwen .bigGrace3 {
+        height: 16vw;
+        top: 2vw;
+    }
+
+    .sec_betwen .bigGrace4 {
+        height: 17vw;
+    }
+
+    .sec_betwen .bigGrace5 {
+        height: 14vw;
+    }
+
+    .page3 .cow_section {
+        margin: -4vw 0 0;
+    }
+
+    page3 .cow_section .hills {
+        width: 42%;
+        height: 26px;
+        bottom: 11px;
+    }
+
+    .page3 .cow_section .hills {
+        bottom: 18px;
+    }
+
+    .page3 .rode {
+        bottom: 21vw;
+        height: 30vw;
+    }
+
+    .page3 .piramide {
+        top: 32vw;
+        padding: 8vw 7.5vw 0 0;
+    }
+
+    .page3 .cow_section .blue_cow_block {
+        width: 42.6vw;
+    }
+.page4 {
+    margin: -54vw 0 0;
+}
+    .page4 .tadj {
+        top: 22.2vw;
+    }
+
+    .page4 .cow_section .blue_cow_block {
+        width: 42vw;
+    }
+
+    .page4 .cow_section .india_cow_p3 {
+        width: 64%;
+        height: 23vw;
+    }
+
+    .page4 .cow_section .india_cow_block {
+        top: 1vw;
+    }
+
+    .page4 .rode {
+        top: -20vw;
+        padding: 0 11vw 7vw 0;
+    }
+
+    .page4 .blue_cow_block .hills {
+        width: 103%;
+    }
+
+    .page4 .flower1 {
+        position: absolute;
+        left: 11.5vw;
+        margin: 0 0 3vw;
+        width: 36px;
+        animation: rotate 18s ease alternate infinite;
+    }
+
+    .page4 .flower2 {
+        right: 4.3vw;
+        margin: 0 0 10vw;
+        width: 32px;
+    }
+
+    .page4 .india_cow_block .hills {
+        width: 84%;
+        height: 29px;
+    }
+
+    .page5 {
+        margin: -52.5vw 0 0;
+    }
+
+    .page5 .cloud {
+        height: 20vw;
+        background-position: 90% 0%;
+        background-size: 102%;
+        top: -4.3vw;
+    }
+
+    .page5 .tadj {
+        top: 45vw;
+    }
+
+    .page5 .rode {
+        top: -6.2vw;
+    }
+
+    .page5 .mexican {
+        top: -12vw;
+    }
+
+    .page5 .cow_section .blue_cow_block {
+        top: 0vw;
+    }
+
+    .page5 .cow_section .mexico_cow_block {
+        width: 22.6vw;
+    }
+
+    .page5 .cow_section {
+        bottom: 17vw;
+        padding: 0 27vw 0 0vw;
+    }
+
+    .page6 {
+        margin: -53vw 0 0;
+    }
+
+    .page6 .cow_section {
+        bottom: 17.5vw;
+    }
+
+    .page6 .cow_section .blue_cow_block {
+        width: 44vw;
+    }
+
+    .page6 .cow_section .greece_cow_p3 {
+        right: 1.5vw;
+    }
+
+    .page6 .cow_section .greece_cow_block {
+        top: 4vw;
+    }
+
+    .page6 .greece_cow_block .man {
+        right: 8vw;
+        bottom: -4vw;
+    }
+
+    .page6 .tadj {
+        top: 42vw;
+    }
+
+    .page6 .tree_box img:first-of-type {
+        width: 25vw;
+    }
+
+    .page6 .tree_box .tree {
+        width: 14vw;
+    }
+
+    .page6 .tadj .tree_box img:first-of-type {
+        width: 11vw;
+    }
+
+    .page6 .tadj .tree_box .church {
+        width: 12vw;
+    }
+
+    .fix_cow_p6 {
+        bottom: 18.5vw;
+        left: 27vw;
+    }
+
+    .page6 .blue_cow_block .hills {
+        bottom: -8px;
+        width: 98%;
+    }
+
+    .page7 {
+        margin: -52.7vw 0 0;
+    }
+
+    .page7 .tadj {
+        top: 55vw;
+        height: 23vw;
+    }
+
+    .page7 .rode {
+        height: 21vw;
+        top: -48vw;
+        padding: 4vw 0 0 26vw;
+    }
+
+    .page7 .cow_section {
+        bottom: 18.5vw;
+    }
+
+    .page7 .cow_section .blue_cow_block {
+        width: 35vw;
+    }
+
+    .page7 .cow_section .spain_cow_block {
+        width: 60.6vw;
+        top: 6vw;
+    }
+
+    .page7 .cont_sec .dust {
+        top: -5.9vw;
+    }
+
+    .page7 .blue_cow_block .hills {
+        bottom: -18px;
+        width: 96%;
+    }
+
+    .fix_cow_p7 {
+        bottom: 22.5vw;
+        left: 18.3vw;
+    }
+
+    .page8 {
+        margin: -52vw 0 0;
+    }
+
+    .page8 .rode {
+        height: 30.5vw;
+        top: -37vw;
+    }
+
+    .page8 .cow_section .blue_cow_block {
+        width: 43vw;
+    }
+
+    .page8 .tadj {
+        top: 70vw;
+        padding: 0vw 0 2vw 33vw;
+    }
+
+    .page8 .cow_section {
+        bottom: 19.5vw;
+    }
+
+    .page8 .cont_sec .dust {
+        top: -8.9vw;
+    }
+
+    .page8 .fence {
+        top: 21vw;
+    }
+
+    .page8 .cow_section .american_cow_block {
+        top: 9vw;
+    }
+
+    .page9 .rode {
+        top: -47vw;
+        height: 34vw;
+    }
+
+    .page8 .house {
+        top: -7vw;
+    }
+
+    .page9 .tadj {
+        top: 67vw;
+        height: 26vw;
+    }
+
+    .page9 .cow_section {
+        bottom: 19.5vw;
+    }
+
+    .page9 .sun {
+        top: -38.5vw;
+        left: 6vw;
+    }
+
+    .page9 .cow_section .blue_cow_block {
+        width: 46vw;
+    }
+
+    .page9 .cont_sec .left_side,
+    .page9 .cont_sec .right_box {
+        height: 21vw;
+    }
+
+    .cloud_p10 {
+        bottom: 43.2vw;
+    }
+
+    .fix_cow_p8 {
+        bottom: 23.5vw;
+    }
+
+    .fix_cow_p10 {
+        bottom: 27vw;
+    }
+
+    .page9 .cow_section .china_cow_block {
+        top: 4.5vw;
+    }
+
+    .page9 .cont_sec .right_box {
+        background-position: 63% 14%;
+    }
+
+}
+
+@media all and (max-width:1440px) and (max-height:720px) {
+/*
+    .page9 .cloud {
+        top: -6.8vw;
+    }
+
+    .text_section {
+        bottom: 1vw;
+    }
+
+    .menu {
+        top: 30px;
+        height: 41vw;
+    }
+
+    @keyframes cow_from_top {
+        0% {
+            bottom: -80%;
+            opacity: 0;
+        }
+
+        90% {
+            opacity: 1;
+        }
+
+        100% {
+            bottom: 17vw;
+        }
+    }
+
+    .blue_cow {
+        bottom: 17vw;
+        width: 28vw;
+        height: 24vw;
+    }
+
+    .menu .nav-item {
+        width: 50px;
+        height: 50px;
+    }
+
+    .menu .page_icon {
+        width: 45px;
+        height: 45px;
+    }
+
+    .page2 .cont .text_box img {
+        width: 47px;
+    }
+
+    .page2 .cont h1 {
+        font-size: 2.6vw;
+    }
+
+    .page2 .cont .text_box,
+    .page3 .cont_sec .text_box,
+    .page4 .cont_sec .text_box,
+    .page5 .cont_sec .text_box,
+    .page6 .cont_sec .text_box,
+    .page7 .cont_sec .text_box,
+    .page8 .cont_sec .text_box,
+    .page9 .cont_sec .text_box {
+        font-size: 1.2vw;
+    }
+
+    .cloud_p3 {
+        width: 100%;
+        height: 26vw;
+    }
+
+    .sec_betwen {
+        margin: -8vw 0 0;
+    }
+
+    .sec_betwen .grass_box {
+        bottom: 26vw;
+        width: 52%;
+        height: 16.6vw;
+    }
+
+    .sec_betwen .bigGrace1 {
+        height: 6vw;
+        left: -0.5vw;
+        top: 2vw;
+    }
+
+    .sec_betwen .bigGrace11 {
+        height: 6.3vw;
+    }
+
+    .sec_betwen .grace_sec1 {
+        top: 8vw;
+        left: -1vw;
+    }
+
+    .sec_betwen .grace_sec2 {
+        top: -8vw;
+    }
+
+    .page3 .rode {
+        height: 28vw;
+    }
+
+    .page3 .cow_section {
+        margin: -8vw 0 0;
+    }
+
+    .page3 .piramide {
+        top: 34vw;
+        height: 26.5vw;
+        width: 82%;
+        padding: 5vw 7.5vw 0 0;
+    }
+
+    .page3 .cow_section .hills {
+        bottom: -25px;
+    }
+
+    .page3 .cow_section .brown_cow {
+        margin: 0 -2vw 0 0;
+        bottom: -3vw;
+    }
+
+    .page4 .cow_section .blue_cow_block {
+        width: 41vw;
+    }
+
+    .page4 .cow_section .india_cow_block {
+        width: 46vw;
+    }
+
+    .page4 .rode {
+        top: -21vw;
+        height: 18vw;
+        top: -20vw;
+        padding: 0 11vw 8vw 0;
+    }
+
+    .page4 .tadj {
+        top: 22.2vw;
+    }
+
+    .page4 .cow_section {
+        bottom: 14vw;
+    }
+
+    .page4 .india_cow_block .hills {
+        width: 84%;
+        height: 27px;
+    }
+
+    .page4 .flower1 {
+        left: 9.5vw;
+    }
+
+    .page4 .flower2 {
+        right: 3.6vw;
+        width: 26px;
+        margin: 0 0 9.5vw;
+    }
+
+    .page5 .cow_section .blue_cow_block {
+        width: 43vw;
+        top: 3vw;
+    }
+
+    .page5 .cow_section .mexico_cow_p3 {
+        height: 21vw;
+    }
+
+    .page5 .cow_section .mexico_cow_block {
+        width: 20.6vw;
+    }
+
+    .page5 .rode {
+        top: -8.2vw;
+    }
+
+    .page5 .tadj {
+        top: 42vw;
+    }
+    .page6 .cow_section {
+    bottom: 15.5vw;
+}
+
+    .page6 .cow_section .greece_cow_p3 {
+        width: 66%;
+        height: 27vw;
+    }
+
+    .page6 .greece_cow_block .man {
+        width: 20%;
+        height: 18.9vw;
+        right: 8vw;
+    }
+
+    .page6 .tadj {
+        top: 42vw;
+        padding: 1vw 9vw 0 0;
+    }
+
+    .page6 .rode {
+        top: 24vw;
+        height: 26.2vw;
+    }
+
+    .page6 .tree_box img:first-of-type {
+        width: 23vw;
+    }
+
+    .page6 .tree_box .tree {
+        width: 14vw;
+    }
+
+    .page6 .cow_section .greece_cow_block {
+        top: 1vw;
+    }
+
+
+    .page7 .cow_section {
+        bottom: 16.5vw;
+    }
+
+    .page7 .cow_section .spain_cow_p3 {
+        width: 31%;
+        height: 26vw;
+        top: -2vw;
+    }
+
+    .page7 .rode {
+        height: 21vw;
+        top: -49vw;
+        padding: 0 0 8vw 27vw;
+    }
+
+    .page7 .cont_sec .dust {
+        top: -7vw;
+    }
+
+    .page8 .tadj {
+        top: 67vw;
+    }
+
+    .page8 .house {
+        top: -7vw;
+    }
+
+    .page8 .cloud {
+        top: -3.8vw;
+    }
+
+    .page9 .rode {
+        top: -47.2vw;
+        height: 27vw;
+        background-position: 50% 50%;
+    }
+
+    .page9 .cow_section .china_cow_p3 {
+        width: 68%;
+        height: 19vw;
+    }
+
+    .page9 .cow_section .china_cow_block {
+        top: 5.5vw;
+        width: 45.6vw;
+        left: -4vw;
+    }
+
+    .page9 .tadj {
+        top: 65vw;
+        padding: 6vw 4vw 0 0;
+    }
+
+    .page9 .cow_section {
+        bottom: 19.5vw;
+    }
+
+    .page8 .cow_section .american_cow_block {
+        top: 6vw;
+    }
+
+    .page8 .cow_section {
+        bottom: 17.2vw;
+    }
+
+    .page8 .cont_sec .dust {
+        top: -5.9vw;
+    }
+
+    .cloud_p10 {
+        bottom: 41.2vw;
+    }
+
+    .fix_cow_p3 {
+        bottom: 14vw;
+    }
+
+    .fix_cow_p7 {
+        bottom: 19.5vw;
+        left: 18.3vw;
+    }
+
+    .fix_cow_p8 {
+        bottom: 18.5vw;
+    }
+
+    .page10 .top_section .hills1 {
+        height: 27vw;
+        background-size: 119%;
+    }
+
+    .page10 .grass {
+        top: 7vw;
+    }
+*/
+}
+
+@media all and (max-width:1366px) and (max-height:768px) {
+    .sec_betwen {
+        margin: -9vw 0 0;
+    }
+
+    .sec_betwen .grass_box {
+        bottom: 33vw;
+    }
+
+    .page3 .piramide {
+        top: 36vw;
+        padding: 11vw 8.5vw 0 0;
+    }
+
+    .page3 .cow_section {
+        margin: -1vw 0 0;
+    }
+
+    .page4 .india_cow_block .hills {
+        height: 27px;
+    }
+
+    .page3 .rode {
+        bottom: 21vw;
+    }
+
+    .page4 .rode {
+        top: -23vw;
+        padding: 0 11vw 0vw 0;
+    }
+
+    .page4 .cow_section .india_cow_p3 {
+        right: 0vw;
+    }
+
+    .page4 .tadj {
+        top: 23.2vw;
+    }
+
+    .page5 .tadj {
+        top: 49vw;
+    }
+
+    .page5 .rode {
+        top: -6.2vw;
+        height: 28vw;
+    }
+
+    .page6 .cow_section .greece_cow_block {
+        top: 4vw;
+    }
+
+    .page6 .tadj {
+        top: 47vw;
+    }
+
+    .page8 .house {
+        right: 49vw;
+        top: -8vw;
+    }
+
+    .page7 .tadj {
+        top: 60vw;
+    }
+
+    .page7 .rode {
+        top: -54vw;
+        padding: 4vw 0 0 23vw;
+    }
+
+    .page7 .cow_section .spain_cow_block {
+        top: 9vw;
+    }
+
+    .page8 .tadj {
+        top: 75vw;
+    }
+
+    .page9 .tadj {
+        top: 76vw;
+    }
+
+    .page8 .cont_sec .dust {
+        top: -7.9vw;
+    }
+
+    .page8 .rode {
+        height: 30.5vw;
+        top: -41vw;
+    }
+
+    .page9 .cont_sec .left_side,
+    .page9 .cont_sec .right_box {
+        height: 21vw;
+    }
+
+    .hills_three {
+        padding: 5vw 0 0vw 6vw;
+        height: 23vw;
+        width: 75%;
+    }
+
+    .cloud_p10 {
+        bottom: 46.2vw;
+    }
+
+    .page10 .top_section .hills1 {
+        bottom: 9vw;
+    }
+
+    .page10 .big_grass {
+        top: -6vw;
+    }
+
+    .sec_betwen .bigGrace11 {
+        height: 8.3vw;
+    }
+
+    .sec_betwen .bigGrace1 {
+        height: 8vw;
+    }
+
+}
+
+@media all and (max-width:1366px) and (max-height:720px) {
+    @keyframes cow_from_top {
+        0% {
+            bottom: -80%;
+            opacity: 0;
+        }
+
+        90% {
+            opacity: 1;
+        }
+
+        100% {
+            bottom: 16vw;
+        }
+    }
+
+    .blue_cow {
+        bottom: 16vw;
+    }
+
+    .sec_betwen .grass_box {
+        bottom: 26vw;
+    }
+
+    .sec_betwen {
+        margin: -17vw 0 0;
+    }
+
+    .cloud_p3 {
+        width: 89%;
+    }
+
+    .page3 .rode {
+        height: 30vw;
+    }
+
+    .page3 .cow_section .hills {
+        bottom: 7px;
+    }
+
+    .page4 .rode {
+        top: -21vw;
+    }
+
+    .page4 .tadj {
+        top: 25.2vw;
+    }
+
+    .page4 .left_box .flower {
+        bottom: 2vw;
+    }
+
+    .page4 .right_box .flower {
+        bottom: 3vw;
+    }
+
+    .page4 .right_box .bigGrace3 {
+        top: -1vw;
+    }
+
+    .page4 .right_box .bigGrace4 {
+        top: -1vw;
+    }
+
+    .page4 .india_cow_block .hills {
+        height: 25px;
+    }
+
+    .page4 .rode {
+        padding: 0 11vw 6vw 0;
+    }
+
+    .page6 .tadj {
+        top: 46vw;
+    }
+
+    .page6 .rode {
+        top: 25vw;
+        height: 28.2vw;
+    }
+
+    .page7 .tadj {
+        top: 58vw;
+    }
+
+    .page7 .rode {
+        top: -52vw;
+        height: 19vw;
+        padding: 0vw 0 0 23vw;
+    }
+
+    .page7 .cont_sec .dust {
+        top: -5vw;
+    }
+
+    .page8 .house {
+        top: -5vw;
+    }
+
+    .page9 .tadj {
+        top: 73vw;
+        padding: 6vw 2vw 0 0;
+    }
+
+    .page9 .rode {
+        top: -49.2vw;
+        height: 27vw;
+    }
+
+    .page9 .cow_section {
+        bottom: 17.5vw;
+    }
+
+    .page9 .cow_section .blue_cow_block {
+        width: 45vw;
+    }
+
+    .page9 .cow_section .china_cow_p3 {
+        width: 64%;
+        height: 18vw;
+    }
+
+    .page8 .cont_sec .dust {
+        top: -6.9vw;
+    }
+
+    .cloud_p10 {
+        bottom: 43.2vw;
+    }
+
+    .page10 .top_section .hills1 {
+        height: 28vw;
+        background-size: 124%;
+    }
+
+}
+
+
+
+
+
+@media all and (max-width:1280px) and (max-height:850px) {
+
+    .hills_three {
+        height: 26vw;
+    }
+
+    .sec_betwen .grass_box {
+        bottom: 32vw;
+    }
+
+
+    @keyframes cow_from_top {
+        0% {
+            bottom: -80%;
+            opacity: 0;
+        }
+
+        90% {
+            opacity: 1;
+        }
+
+        100% {
+            bottom: 20vw;
+        }
+    }
+
+    @keyframes grace_from_top {
+        0% {
+            bottom: -70%;
+            opacity: 0;
+        }
+
+        90% {
+            opacity: 1;
+        }
+
+        100% {
+            bottom: 11vw;
+        }
+    }
+
+    .blue_cow {
+        bottom: 20vw;
+    }
+
+    .grass_box {
+        bottom: 11vw;
+    }
+
+    .sec_betwen .grass_box {
+        bottom: 30vw;
+    }
+
+    .sec_betwen .grace_sec1 {
+        top: 11vw;
+    }
+
+    .sec_betwen {
+        margin: -20vw 0 0;
+    }
+
+    .page3 .piramide {
+        top: 40vw;
+        height: 32.5vw;
+        width: 90%;
+        padding: 13vw 9.5vw 0 0;
+    }
+
+    .page3 .rode {
+        bottom: 21vw;
+        height: 36vw;
+    }
+
+    .page3 .cow_section {
+        margin: 6vw 0 0;
+    }
+
+    .menu {
+        height: 53vw;
+    }
+
+    .page3 .cow_section .hills {
+        width: 40%;
+        height: 25px;
+        bottom: -12px;
+        left: -10vw;
+    }
+
+    .page3 .cow_section .brown_cow {
+        bottom: -2vw;
+    }
+
+    .page4 .tadj {
+        top: 27.2vw;
+    }
+
+    .page4 .rode {
+        height: 27vw;
+        top: -24.5vw;
+        padding: 2vw 11vw 0vw 0;
+    }
+
+    .page4 .cow_section .india_cow_p3 {
+        width: 66%;
+        height: 23vw;
+        right: 0;
+        top: 0px;
+    }
+
+    .page3 h1,
+    .page4 h1,
+    .page5 h1,
+    .page6 h1,
+    .page7 h1,
+    .page8 h1,
+    .page9 h1 {
+        font-size: 2.6vw;
+    }
+
+    .page4 .left_box {
+        top: -2vw;
+    }
+
+    .page4 .cont_sec .right_box {
+        top: -4vw;
+    }
+
+    .page4 .flower1 {
+        left: 11.5vw;
+        width: 37px;
+    }
+
+    .page4 .flower2 {
+        right: 4.4vw;
+        width: 28px;
+        margin: 0px 0 10.5vw;
+    }
+
+    .page4 .india_cow_block .hills {
+        bottom: 0;
+        width: 76%;
+        height: 22px;
+    }
+
+    .page5 .mexican {
+        top: -6vw;
+    }
+
+    .page5 .tadj {
+        top: 55.2vw;
+    }
+
+    .page6 .cow_section .greece_cow_p3 {
+        width: 72%;
+        height: 30vw;
+    }
+
+    .page6 .tadj {
+        height: 32vw;
+        width: 77%;
+        padding: 0vw 11vw 3vw 0px;
+        background-position: -194% 6%;
+    }
+
+    .page6 .rode {
+        top: 26.5vw;
+    }
+
+    .page6 .tadj .tree_box .church {
+        width: 10vw;
+    }
+
+    .page6 .cow_section .greece_cow_block {
+        top: 6vw;
+    }
+
+    .page6 .tadj .tree_box {
+        bottom: 11.3vw;
+    }
+
+    .page7 .rode {
+        height: 24vw;
+        top: -57vw;
+        padding: 4vw 0 0 29vw;
+    }
+
+    .page7 .blue_cow_block .hills {
+        bottom: -19px;
+    }
+
+    .page7 .tadj {
+        top: 64vw;
+        height: 27vw;
+    }
+
+    .page7 .cow_section .spain_cow_block {
+        left: -3vw;
+    }
+
+    .page8 .rode {
+        top: -42vw;
+        height: 35.5vw;
+    }
+
+    .page8 .fence {
+        top: 26vw;
+    }
+
+    .page8 .tadj {
+        top: 87vw;
+        padding: 0vw 0 1vw 33vw;
+    }
+
+    .page8 .cow_section {
+        bottom: 26vw;
+    }
+
+    .page8 .house {
+        right: 53vw;
+        top: -5vw;
+    }
+
+    .page8 .cow_section .american_cow_block {
+        top: 14vw;
+    }
+
+    .page9 .rode {
+        top: -50.2vw;
+        height: 37vw;
+    }
+
+    .page9 .sun {
+        top: -36.5vw;
+        left: 8.5vw;
+    }
+
+    .page9 .tadj {
+        top: 73vw;
+        height: 38vw;
+        background-size: 107%;
+    }
+
+    .page9 .blue_cow_block .hills {
+        width: 96%;
+        height: 40px;
+    }
+
+    .page3 .rode {
+        bottom: 22vw;
+        height: 39vw;
+    }
+
+    .page3 .piramide {
+        top: 39vw;
+    }
+
+    .page5 .rode {
+        top: -7.2vw;
+        height: 39vw;
+        padding: 0 8vw 1vw 0;
+    }
+
+    .page6 .tadj {
+        top: 51vw;
+    }
+
+    .page6 .blue_cow_block .hills {
+        width: 86%;
+    }
+
+    .page6 .rode {
+        height: 40.2vw;
+    }
+
+    .page7 .rode {
+        top: -59vw;
+    }
+
+    .page9 .rode {
+        top: -51.2vw;
+        height: 41vw;
+    }
+
+    .cloud_p10 {
+        bottom: 57.2vw;
+    }
+
+    .page10 .top_section .hills1 {
+        bottom: 8vw;
+    }
+
+    .page10 .big_grass {
+        top: -6vw;
+    }
+
+    .page10 .grass {
+        top: 7vw;
+    }
+
+
+}
+
+@media all and (max-width:1280px) and (max-height:800px) {
+    .bigGrace1 {
+        top: 1vw;
+    }
+
+    .sec_betwen .grass_box {
+        bottom: 34vw;
+    }
+
+    .sec_betwen .grace_sec1 {
+        top: 10vw;
+    }
+
+    .sec_betwen .bigGrace11 {
+        height: 8.3vw;
+    }
+
+    .sec_betwen .bigGrace1 {
+        height: 8vw;
+        left: 0.5vw;
+        top: 2vw;
+    }
+
+    .page3 .piramide {
+        top: 38vw;
+    }
+
+    .page3 .rode {
+        bottom: 21vw;
+        height: 36vw;
+    }
+
+    .page3 .cow_section .hills {
+        width: 40%;
+        height: 25px;
+        bottom: 21px;
+        left: -10vw;
+    }
+
+    .page4 .tadj {
+        top: 27.2vw;
+    }
+
+    .page4 .rode {
+        height: 27vw;
+        top: -23.5vw;
+        padding: 2vw 11vw 0vw 0;
+    }
+
+    .page3 h1,
+    .page4 h1,
+    .page5 h1,
+    .page6 h1,
+    .page7 h1,
+    .page8 h1,
+    .page9 h1 {
+        font-size: 2.6vw;
+    }
+
+    .page4 .left_box {
+        top: 0vw;
+    }
+
+    .page4 .cont_sec .right_box {
+        top: -4vw;
+    }
+
+    .page5 .tadj {
+        top: 54.2vw;
+    }
+
+    .page5 .cloud {
+        top: -5.2vw;
+    }
+
+    .page5 .mexican {
+        right: 0vw;
+        top: -9vw;
+    }
+
+    .page6 .cow_section .greece_cow_p3 {
+        width: 74%;
+        height: 30vw;
+    }
+
+    .page6 .greece_cow_block .man {
+        right: 5vw;
+    }
+
+    .page6 .tadj {
+        height: 32vw;
+        width: 77%;
+        top: 50vw;
+        padding: 2vw 10vw 0 0;
+        background-position: -194% 6%;
+    }
+
+    .page6 .blue_cow_block .hills {
+        width: 100%;
+    }
+
+    .page6 .rode {
+        top: 26.5vw;
+    }
+
+    .page6 .tadj .tree_box .church {
+        width: 10vw;
+    }
+
+    .page6 .cow_section .greece_cow_block {
+        top: -1vw;
+    }
+
+    .page6 .tadj .tree_box {
+        top: 3.8vw;
+    }
+
+    .page7 .rode {
+        height: 24vw;
+        top: -57vw;
+        padding: 4vw 0 0 29vw;
+    }
+
+    .page7 .blue_cow_block .hills {
+        bottom: -19px;
+    }
+
+    .page7 .tadj {
+        top: 64vw;
+        height: 27vw;
+    }
+
+    .page7 .cow_section .spain_cow_block {
+        left: -3vw;
+        top: 6vw;
+    }
+
+    .page7 .cont_sec .dust {
+        top: -6vw;
+    }
+
+    .page8 .rode {
+        height: 32.5vw;
+    }
+
+    .page8 .fence {
+        top: 26vw;
+    }
+
+    .page8 .tadj {
+        top: 87vw;
+        padding: 0vw 0 1vw 33vw;
+    }
+
+    .page8 .cow_section {
+        bottom: 23vw;
+    }
+
+    .page8 .blue_cow_block .hills {
+        bottom: -17px;
+    }
+
+    .page8 .house {
+        right: 53vw;
+        top: -5vw;
+    }
+
+    .page8 .cow_section .american_cow_block {
+        top: 9vw;
+    }
+
+    .page8 .cont_sec .dust {
+        top: -7.9vw;
+    }
+
+    .page9 .rode {
+        top: -50.2vw;
+        height: 37vw;
+    }
+
+    .page9 .sun {
+        top: -37.5vw;
+    }
+
+    .page9 .tadj {
+        top: 70vw;
+    }
+
+    .page9 .blue_cow_block .hills {
+        width: 96%;
+        height: 40px;
+    }
+
+    .page9 .cow_section .china_cow_block {
+        width: 46.6vw;
+    }
+
+    .cloud_p10 {
+        bottom: 52.2vw;
+    }
+
+    .fix_cow_p10 {
+        bottom: 33.5vw;
+    }
+
+    .page9 .cow_section .china_cow_p3 {
+        width: 66%;
+    }
+}
+
+@media all and (max-width:1280px) and (max-height:720px) {
+    .menu {
+        top: 20px;
+        height: 47vw;
+    }
+
+    .cloud_p2 {
+        margin: -12vw 0 0 0vw;
+    }
+
+    .sec_betwen .grace_sec1 {
+        top: 7vw;
+    }
+
+    .hills_two {
+        bottom: 6vw;
+    }
+
+    .sec_betwen {
+        margin: -20vw 0 0;
+    }
+
+    .cloud_p3 {
+        width: 100%;
+        height: 25vw;
+    }
+
+    .sec_betwen .grass_box {
+        bottom: 26vw;
+    }
+
+    .page3 .piramide {
+        top: 39vw;
+        padding: 8vw 9.5vw 0 0;
+    }
+
+    .page3 .rode {
+        bottom: 23vw;
+        height: 27vw;
+    }
+
+    .page3 .cow_section .hills {
+        height: 24px;
+        bottom: 6px;
+    }
+
+    .page3 .cow_section {
+        margin: 1vw 0 0;
+    }
+
+    .page4 .flower2 {
+        right: 2.8vw;
+        width: 27px;
+        margin: 0 0 10vw;
+    }
+
+    .page4 .rode {
+        top: -21vw;
+        height: 20vw;
+        padding: 0 11vw 9vw 0;
+    }
+
+    .page4 .flower1 {
+        left: 10.5vw;
+    }
+
+    .page4 .flower2 {
+        right: 3.3vw;
+    }
+
+    .page4 .tadj {
+        top: 26.2vw;
+    }
+
+    .page4 .cow_section {
+        bottom: 15vw;
+    }
+
+    .page4 .india_cow_block .hills {
+        width: 84%;
+        height: 23px;
+    }
+
+    .page4 .blue_cow_block .hills {
+        height: 26px;
+    }
+
+    .fix_cow_p3 {
+        bottom: 14.7vw;
+    }
+
+    .page5 .cloud {
+        top: -6.2vw;
+    }
+
+    .page5 .tadj {
+        top: 51vw;
+    }
+
+    .page5 .rode {
+        top: -9.2vw;
+    }
+
+    .page5 .cow_section .blue_cow_block {
+        top: 0vw;
+    }
+
+    .page5 .cow_section .blue_cow_p3 {
+        background-position: 101% 124%;
+    }
+
+    .page5 .mexican {
+        width: 34.3vw;
+    }
+
+    .page5 .blue_cow_block .hills {
+        bottom: -15px;
+    }
+
+    .page5 .cow_section {
+        bottom: 15.6vw;
+        padding: 0 21vw 0 0vw;
+    }
+
+    .page6 .rode {
+        top: 26.2vw;
+        height: 30vw;
+    }
+
+    .page6 .tadj {
+        top: 47vw;
+        padding: 1vw 8vw 0 0;
+    }
+
+    .page6 .cow_section .greece_cow_p3 {
+        width: 68%;
+        height: 28vw;
+    }
+
+    .page6 .cow_section .greece_cow_block {
+        top: 2vw;
+    }
+
+    .page7 .cow_section .spain_cow_p3 {
+        width: 31%;
+        height: 28vw;
+    }
+
+    .page7 .tadj {
+        top: 60vw;
+    }
+
+    .page7 .cow_section .spain_cow_block {
+        top: 11vw;
+    }
+
+    .page7 .rode {
+        top: -56vw;
+        padding: 4vw 0 0 27vw;
+    }
+
+    .page7 .blue_cow_block .hills {
+        bottom: -18px;
+    }
+
+
+    .page8 .cow_section {
+        bottom: 24vw;
+    }
+
+    .page8 .cont_sec .dust {
+        top: -8.9vw;
+    }
+
+    .page8 .tadj {
+        top: 79vw;
+    }
+
+    .page8 .rode {
+        top: -45vw;
+        height: 28.5vw;
+    }
+
+    .page8 .house {
+        right: 51vw;
+    }
+
+    .page8 .fence {
+        top: 21vw;
+    }
+
+    .page9 .tadj {
+        top: 61vw;
+    }
+
+    .page9 .rode {
+        top: -52.2vw;
+        height: 35vw;
+    }
+
+    .page9 .sun {
+        top: -42.5vw;
+    }
+
+    .page9 .cow_section .china_cow_p3 {
+        width: 63%;
+    }
+
+    .page9 .blue_cow_block .hills {
+        width: 100%;
+    }
+
+    .cloud_p10 {
+        bottom: 47.2vw;
+    }
+
+    .page10 .big_grass {
+        top: -8vw;
+    }
+
+    .fix_cow_p8 {
+        bottom: 24.5vw;
+    }
+
+    .fix_cow_p10 {
+        bottom: 31.5vw;
+    }
+
+    .page10 .top_section .hills1 {
+        bottom: 10vw;
+    }
+}
+
+
+@media all and (max-width:1280px) and (max-height:650px) {
+    .sec_betwen {
+        margin: -11vw 0 0;
+    }
+
+    .page3 .cow_section {
+        margin: -1.7vw 0 0;
+    }
+
+    .page3 .piramide {
+        height: 26.5vw;
+        width: 88%;
+        top: 38vw;
+        padding: 5vw 9.5vw 0 0;
+    }
+
+    .page3 .cow_section .broun_cow_block .hills {
+        width: 59%;
+        height: 19px;
+        left: 4vw;
+    }
+
+    .fix_cow_p3 {
+        bottom: 13vw;
+    }
+
+    .page3 .cow_section .hills {
+        bottom: 2px;
+    }
+
+    .menu {
+        right: 20px;
+    }
+
+    .page4 .cow_section {
+        bottom: 13vw;
+    }
+
+    .page5 .cow_section {
+        bottom: 14vw;
+    }
+
+    .page4 .rode {
+        top: -22vw;
+        height: 21vw;
+        padding: 0 8vw 13vw 0;
+    }
+
+    .page5 .mexican {
+        top: -16vw;
+        width: 34.3vw;
+    }
+
+    .page6 .tadj {
+        top: 44vw;
+        padding: 1vw 8vw 0 0;
+    }
+
+    .page6 .cow_section .greece_cow_p3 {
+        right: 3vw;
+    }
+
+    .page6 .cow_section .greece_cow_block {
+        top: 4vw;
+    }
+
+    .page6 .tadj .tree_box img:first-of-type {
+        width: 9vw;
+    }
+
+    .page7 .rode {
+        top: -55vw;
+        padding: 0vw 0 4vw 33vw;
+    }
+
+    .page7 .tadj {
+        top: 57vw;
+    }
+
+    .page7 .cont_sec .dust {
+        top: -2vw;
+    }
+
+    .page8 .cow_section {
+        bottom: 18vw;
+    }
+
+    .page8 .tadj {
+        top: 75vw;
+    }
+
+    .page8 .cont_sec .dust {
+        top: -3.9vw;
+    }
+
+    .page9 .tadj {
+        top: 55vw;
+        padding: 4vw 2vw 0 0;
+    }
+
+    .page9 .cow_section .china_cow_block {
+        top: 3.5vw;
+    }
+
+    .page9 .cont_sec .left_side,
+    .page9 .cont_sec .right_box {
+        height: 18vw;
+    }
+
+    .page9 .cont_sec .left_side {
+        background-position: 0% 4%;
+        background-size: 71%;
+    }
+
+    .page9 .cont_sec .right_box {
+        background-position: 110% 1%;
+        background-size: 74%;
+    }
+
+    .page9 .sun {
+        top: -44.5vw;
+    }
+
+    .cloud_p10 {
+        bottom: 39.2vw;
+    }
+
+    .fix_cow_p8 {
+        bottom: 18.5vw;
+    }
+
+    .fix_cow_p10 {
+        bottom: 25.5vw;
+    }
+}
+
+@media all and (max-width:1112px) and (max-height:834px) {
+    .page3 .cow_section .brown_cow {
+        bottom: 1.5vw;
+        width: 66%;
+        height: 28vw;
+    }
+
+    .menu {
+        right: 47px;
+    }
+
+    .page10 .text_box {
+        width: 48%;
+    }
+
+    .hills_three {
+        padding: 6vw 0 0vw 8vw;
+    }
+
+    .page3 .cow_section .broun_cow_block .brown_cow_hills {
+        width: 64%;
+        height: 24px;
+        left: 4vw;
+        bottom: 4vw;
+        position: relative;
+    }
+
+    @keyframes grace_from_top {
+        0% {
+            bottom: -70%;
+            opacity: 0;
+        }
+
+        90% {
+            opacity: 1;
+        }
+
+        100% {
+            bottom: 14vw;
+        }
+    }
+
+    .grass_box {
+        bottom: 14vw;
+    }
+
+    .hills_three {
+        height: 29vw;
+        width: 100%;
+        margin: 0;
+    }
+
+    .sec_betwen .grace_sec2 {
+        top: -7vw;
+        left: -3vw;
+    }
+
+    .page2 .cont .text_box img {
+        width: 54px;
+    }
+
+    .sec_betwen {
+        margin: -33vw 0 0;
+    }
+
+    .cloud_p2 {
+        margin: -12vw 0 0 0vw;
+    }
+
+    @keyframes cow_from_top {
+        0% {
+            bottom: -80%;
+            opacity: 0;
+        }
+
+        90% {
+            opacity: 1;
+        }
+
+        100% {
+            bottom: 23vw;
+        }
+    }
+
+    .blue_cow {
+        bottom: 23vw;
+    }
+
+    .page3 .piramide {
+        top: 15vw;
+        padding: 13vw 11.5vw 0 0;
+    }
+
+    .page3 .cow_section .hills {
+        width: 42%;
+        height: 22px;
+        bottom: 4.8vw;
+        left: -6vw;
+    }
+
+    .page3 .rode {
+        bottom: -16vw;
+    }
+
+    .sec_betwen .grass_box {
+        bottom: 36vw;
+    }
+
+
+    .page3 .cow_section .broun_cow_block .hills {
+        height: 20px;
+        width: 79%;
+        left: 0vw;
+        bottom: 2.3vw;
+    }
+
+    .page3 .cow_section {
+        margin: 0vw 0 0;
+    }
+
+    .page4 .blue_cow_block .hills {
+        width: 100%;
+        height: 23px;
+        bottom: 4px;
+    }
+
+    .page4 .cow_section .india_cow_p3 {
+        width: 72%;
+        height: 26vw;
+        right: 0;
+        top: 0px;
+    }
+
+    .page4 .india_cow_block .hills {
+        width: 82%;
+    }
+
+    .page4 .left_box {
+        top: 0;
+    }
+
+    .page4 .cont_sec .right_box {
+        top: -5vw;
+    }
+
+    .page4 .cow_section {
+        bottom: 27vw;
+    }
+
+    .page4 .blue_cow_block .hills {
+        width: 86%;
+        height: 35px;
+        bottom: -2px;
+    }
+
+    .page4 .tadj {
+        top: -16.8vw;
+    }
+
+    .page4 .rode {
+        height: 30vw;
+        top: -5.5vw;
+        padding: 0vw 11vw 6vw 0;
+    }
+
+    .page5 .cow_section {
+        bottom: 31vw;
+        padding: 0 11vw 0 0vw;
+    }
+
+    .page5 .cow_section .mexico_cow_p3 {
+        top: 4.3vw;
+        left: -2vw;
+    }
+
+    .page5 .mexican {
+        padding: 0vw 4.5vw 0vw 0vw;
+    }
+
+    .page5 .tadj {
+        top: -18.8vw;
+        height: 22vw;
+    }
+
+    .page5 .rode {
+        height: 43vw;
+        top: 7.5vw;
+        padding: 0 10vw 1vw 0;
+    }
+
+    .page3 h1,
+    .page4 h1,
+    .page5 h1,
+    .page6 h1,
+    .page7 h1,
+    .page8 h1,
+    .page9 h1 {
+        font-size: 2.2vw;
+    }
+
+    .page6 .tadj {
+        top: 30.3vw;
+    }
+
+    .page6 .cow_section {
+        bottom: 30.5vw;
+    }
+
+    .page6 .rode {
+        height: 49.2vw;
+    }
+
+    .page7 .rode {
+        top: -30vw;
+    }
+
+    .page7 .tadj {
+        top: 32vw;
+        height: 32vw;
+    }
+
+    .page7 .cow_section {
+        bottom: 35.5vw;
+    }
+
+    .page7 .cow_section .spain_cow_block {
+        left: 1vw;
+    }
+
+    .page8 .rode {
+        top: -52vw;
+        height: 37.5vw;
+    }
+
+    .page8 .tadj {
+        top: 55vw;
+        padding: 0vw 0 1vw 33vw;
+    }
+
+    .page8 .fence {
+        top: 24vw;
+    }
+
+    .page8 .house {
+        right: 60vw;
+    }
+
+    .page8 .cow_section {
+        bottom: 36vw;
+    }
+
+    .page8 .blue_cow_block .hills {
+        bottom: -12px;
+    }
+
+    .page8 .cont_sec .dust {
+        top: -13.9vw;
+    }
+
+    .page7 .cont_sec .dust {
+        top: -15vw;
+    }
+
+    .page9 .rode {
+        top: -16.2vw;
+        height: 48vw;
+    }
+
+    .page9 .tadj {
+        top: 39vw;
+        height: 36vw;
+    }
+
+    .page9 .cow_section {
+        bottom: 35.5vw;
+    }
+
+    .page9 .sun {
+        top: -48.5vw;
+    }
+
+    .page9 .cow_section .china_cow_p3 {
+        width: 69%;
+        height: 21vw;
+    }
+
+    .page9 .cont_sec .left_side,
+    .page9 .cont_sec .right_box {
+        height: 29vw;
+    }
+
+    .menu {
+        height: 61vw;
+    }
+
+    .cloud_p10 {
+        bottom: 66.2vw;
+    }
+
+    .page10 .cows_box {
+        margin-top: 12vw;
+    }
+
+    .fix_cow_p3 {
+        bottom: 27.5vw;
+        width: 28.6vw;
+        height: 23.2vw;
+    }
+
+    .fix_cow_p6 {
+        bottom: 32vw;
+    }
+
+    .fix_cow_p7 {
+        bottom: 36.5vw;
+    }
+
+    .fix_cow_p8 {
+        bottom: 37.5vw;
+    }
+
+    .fix_cow_p10 {
+        bottom: 42vw;
+    }
+}
+
+@media all and (max-width:1024px) {
+    .modal_box {
+        font-size: 2.4vw;
+    }
+
+    .close {
+        width: 3vw;
+        height: 3vw;
+        font-size: 3.1vw;
+    }
+
+
+    .page1,
+    .page2,
+    .page3,
+    .page4,
+    .page5,
+    .page6,
+    .page7,
+    .page8,
+    .page9,
+    .page10 {
+        height: 768px;
+    }
+
+    .page2 .cont .text_box,
+    .page3 .cont_sec .text_box,
+    .page4 .cont_sec .text_box,
+    .page5 .cont_sec .text_box,
+    .page6 .cont_sec .text_box,
+    .page7 .cont_sec .text_box,
+    .page8 .cont_sec .text_box,
+    .page9 .cont_sec .text_box {
+        font-size: 1.6vw;
+    }
+
+    .page2 .cont .text_box br {
+        display: none;
+    }
+
+    .page2 .cont .text_box {
+        width: 50%;
+    }
+
+    .bigGrace3 {
+        top: -3vw;
+    }
+
+    .bigGrace5 {
+        left: -12.6vw;
+        top: 2vw;
+    }
+
+    .hills_one {
+        height: 42vw;
+    }
+
+    .hills_two {
+        width: 100%;
+        height: 36vw;
+    }
+
+    .bigGrace2 {
+        top: -6vw;
+        left: 16.5vw;
+    }
+
+    .bigGrace1 {
+        height: 9vw;
+        left: 15.5vw;
+        top: 3vw;
+    }
+
+    .bigGrace4 {
+        height: 20vw;
+    }
+
+    .bush {
+        left: 2vw;
+    }
+
+    .cloud_p2 {
+        margin: -10vw 0 0 0vw;
+    }
+
+    .sec_betwen .grass_box {
+        bottom: 42vw;
+    }
+
+    .sec_betwen .grace_sec1 {
+        top: 9vw;
+    }
+
+    .page2 .cont .text_box {
+        left: -9.5vw;
+    }
+
+    .sec_betwen {
+        margin: -20vw 0 0;
+    }
+
+    .page3 .cont_sec .left_side {
+        width: 40%;
+        height: 21vw;
+        background-position: 83% 0%;
+        background-size: 110%;
+    }
+
+    .page3 .piramide {
+        height: 33.5vw;
+        padding: 13vw 12.5vw 0 0;
+        top: 16vw;
+    }
+
+    .page3 .cow_section .hills {
+        height: 21px;
+    }
+
+    .page3 .cow_section .broun_cow_block .brown_cow_hills {
+        width: 72%;
+        left: 0vw;
+    }
+
+
+    .cloud_p3 {
+        height: 35vw;
+    }
+
+    .page3 .rode {
+        bottom: -18vw;
+        height: 41vw;
+    }
+
+    .page4 .rode {
+        height: 28vw;
+    }
+
+    .page4 .left_box .flower {
+        height: 15vw;
+    }
+
+    .page4 .blue_cow_block .hills {
+        width: 106%;
+        height: 30px;
+        bottom: 1px;
+    }
+
+    .page4 .flower1 {
+        left: 8.5vw;
+        width: 29px;
+    }
+
+    .page4 .flower2 {
+        right: 3.2vw;
+        width: 21px;
+        margin: 0 0 9.5vw;
+    }
+
+    .page5 .cloud {
+        top: -7.2vw;
+    }
+
+    .page5 .rode {
+        top: 6.5vw;
+    }
+
+    .page5 .cow_section .mexico_cow_block {
+        width: 24.6vw;
+    }
+
+    .page5 .cow_section {
+        bottom: 28vw;
+        padding: 0 29vw 0 0vw;
+    }
+
+    .page5 .blue_cow_block .hills {
+        width: 97%;
+        left: 0;
+    }
+
+    .page5 .mexico_cow_block .hills {
+        width: 66%;
+        bottom: -4vw;
+    }
+
+    .page5 .mexican {
+        right: 1vw;
+        top: -9vw;
+        height: 22vw;
+        width: 36.5vw;
+    }
+
+    .page6 .tadj {
+        width: 83%;
+        top: 35.3vw;
+        padding: 0vw 12vw 0 0;
+    }
+
+    .page6 .rode {
+        height: 39.2vw;
+        top: 36vw;
+    }
+
+    .page6 .tadj .tree_box {
+        bottom: 10.3vw;
+    }
+
+    .page6 .tadj .tree_box .church {
+        width: 13vw;
+    }
+
+    .page6 .blue_cow_block .hills {
+        bottom: -11px;
+    }
+
+    .page7 .tadj {
+        top: 37vw;
+    }
+
+    .page7 .cow_section .spain_cow_block {
+        left: -1vw;
+        top: 11vw;
+    }
+
+    .page7 .cont_sec .dust {
+        top: -14vw;
+    }
+
+    .page8 .tadj {
+        top: 59vw;
+    }
+
+    .page8 .rode {
+        height: 39.5vw;
+        top: -58vw;
+    }
+
+    .page8 .house {
+        right: 64vw;
+        top: -8vw;
+    }
+
+    .page8 .fence {
+        top: 27vw;
+    }
+
+    .page8 .cow_section .american_cow_p3 {
+        width: 53%;
+    }
+
+    .page9 .rode {
+        top: -19.2vw;
+    }
+
+    .page9 .tadj {
+        top: 43vw;
+    }
+
+    .page9 .cow_section {
+        bottom: 25.5vw;
+    }
+
+    .page9 .blue_cow_block .hills {
+        width: 95%;
+        height: 37px;
+    }
+
+    .page9 .sun {
+        top: -52.5vw;
+    }
+
+    .page9 .cow_section .china_cow_block {
+        width: 49.6vw;
+    }
+
+    .page9 .blue_cow_block .hills {
+        bottom: -5px;
+    }
+
+    .fix_cow_p3 {
+        left: 13vw;
+    }
+
+    .page10 .top_section .hills2 {
+        bottom: -8vw;
+        height: 32vw;
+    }
+
+    .page10 .top_section .hills1 {
+        height: 28vw;
+    }
+
+    .page10 .grass {
+        top: 11vw;
+    }
+}
+
+@media all and (max-width:900px) and (max-height:1280px) {
+    .page10 .text_box {
+        width: 73%;
+    }
+
+    .page10 .text_box br {
+        display: none;
+    }
+
+    .page10 .text_box {
+        font-size: 2.4vw;
+    }
+
+    .page10 .text_box .note {
+        font-size: 2vw;
+    }
+
+    .page1,
+    .page2,
+    .page3,
+    .page4,
+    .page5,
+    .page6,
+    .page7,
+    .page8,
+    .page9,
+    .page10 {
+        height: 100vh;
+    }
+
+    @keyframes hills_from_top {
+        0% {
+            bottom: -100%;
+            opacity: 0;
+        }
+
+        90% {
+            opacity: 1;
+        }
+
+        100% {
+            bottom: -20vw;
+        }
+    }
+
+    .hills_one {
+        height: 33vh;
+        bottom: -20vw;
+    }
+
+    .hills_two {
+        height: 41vh;
+        bottom: 37vw;
+    }
+
+    .blue_cow {
+        bottom: 51vw;
+        width: 40vw;
+        height: 35vw;
+    }
+
+    .bush {
+        width: 67%;
+    }
+
+    @keyframes cow_from_top {
+        0% {
+            bottom: -80%;
+            opacity: 0;
+        }
+
+        90% {
+            opacity: 1;
+        }
+
+        100% {
+            bottom: 51vw;
+        }
+    }
+
+    @keyframes hills_from_top2 {
+        0% {
+            bottom: -80%;
+            opacity: 0;
+        }
+
+        90% {
+            opacity: 1;
+        }
+
+        100% {
+            bottom: 9vw;
+        }
+    }
+
+    .hills_three {
+        width: 100%;
+        margin: 0;
+        height: 34vh;
+        padding: 8vw 0 0vw 7vw;
+        bottom: 9vw;
+    }
+
+    @keyframes grace_from_top {
+        0% {
+            bottom: -70%;
+            opacity: 0;
+        }
+
+        90% {
+            opacity: 1;
+        }
+
+        100% {
+            bottom: 36vw;
+        }
+    }
+
+    .grass_box {
+        bottom: 36vw;
+        width: 100%;
+        animation: grace_from_top 1.1s alternate ease-in-out;
+    }
+
+    .bigGrace1 {
+        left: 16.5vw;
+        top: 1vw;
+    }
+
+    .bigGrace2 {
+        top: -9vw;
+        height: 14vw;
+        left: 19.5vw;
+    }
+
+    .bigGrace3 {
+        top: -7vw;
+    }
+
+    .bigGrace4 {
+        height: 22vw;
+    }
+
+    .bigGrace5 {
+        left: -19.6vw;
+        top: -3vw;
+    }
+
+    .page2 {
+        padding: 19vw 0 0;
+    }
+
+    .page2 .cont .text_box {
+        left: -19.5vw;
+    }
+
+    .page2 .cont .text_box {
+        font-size: 2.2vw;
+        width: 71%;
+    }
+
+    .page2 .cont h1 {
+        font-size: 4.1vw;
+    }
+
+    .page2 .cont p br {
+        display: none;
+    }
+
+    .menu {
+        height: 96vw;
+    }
+
+    .sec_betwen {
+        top: 46vw;
+    }
+
+    .cloud_p3 {
+        height: 50vw;
+    }
+
+    .sec_betwen .grass_box {
+        bottom: 59vw;
+    }
+
+    .sec_betwen .grace_sec1 {
+        top: 12vw;
+    }
+
+    .page3 .piramide {
+        top: 41vw;
+        height: 36.5vw;
+        width: 100%;
+        padding: 6vw 16.5vw 0 0;
+    }
+
+    .page3 .rode {
+        bottom: -11vw;
+        height: 74vw;
+        background-position: 50% 31%;
+    }
+
+    .page3 .cow_section .broun_cow_block .brown_cow_hills {
+        width: 95%;
+        left: 0vw;
+        bottom: 4vw;
+    }
+
+    .page3 .cow_section .hills {
+        height: 19px;
+        bottom: 3.8vw;
+    }
+
+    .page3 .cow_section .broun_cow_block .hills {
+        width: 100%;
+        height: 21px;
+        margin: 0;
+        bottom: 4vw;
+    }
+
+    .page3 .cow_section .broun_cow_block {
+        flex-direction: column;
+    }
+
+    .page3 .cow_section .brown_cow {
+        width: 91%;
+        height: 38vw;
+        bottom: 0vw;
+    }
+
+    .page3 .cont_sec .text_box,
+    .page4 .cont_sec .text_box,
+    .page5 .cont_sec .text_box,
+    .page6 .cont_sec .text_box,
+    .page7 .cont_sec .text_box,
+    .page8 .cont_sec .text_box,
+    .page9 .cont_sec .text_box {
+        font-size: 2.4vw;
+        width: 58%;
+        padding: 6.1vw;
+    }
+
+    .page3 .cont_sec p br,
+    .page4 .cont_sec p br,
+    .page5 .cont_sec p br,
+    .page6 .cont_sec p br,
+    .page7 .cont_sec p br,
+    .page8 .cont_sec p br,
+    .page9 .cont_sec p br {
+        display: none;
+    }
+
+    .page3 h1,
+    .page4 h1,
+    .page5 h1,
+    .page6 h1,
+    .page7 h1,
+    .page8 h1,
+    .page9 h1 {
+        font-size: 3.4vw;
+    }
+
+    .page3 .cont_sec .text_box {
+        z-index: 10;
+    }
+
+    .page3 .cont_sec .left_side {
+        width: 39%;
+        height: 35vw;
+        background-position: 0% 0%;
+        background-size: 175%;
+    }
+
+    .page3 .cont_sec .right_box img {
+        width: 100%;
+    }
+
+    .page3 .cont_sec .right_box {
+        display: none;
+    }
+
+    .page4 .cloud {
+        height: 16vw;
+        top: -7.3vw;
+    }
+
+    .page4 .tadj {
+        height: 31vw;
+        background-position: 95% 71%;
+        background-size: 142%;
+    }
+
+    .page4 .tadj {
+        top: -6.8vw;
+    }
+
+    .page4 .rode {
+        height: 36vw;
+        top: 11vw;
+        padding: 0 19vw 8vw 0;
+    }
+
+    .page4 .cow_section .india_cow_block,
+    .page4 .cow_section .blue_cow_block {
+        width: 50%;
+    }
+
+    .page4 .cow_section {
+        bottom: 51vw;
+    }
+
+    .page4 .cow_section .india_cow_p3 {
+        width: 94%;
+        height: 31vw;
+        top: -6px;
+    }
+
+    .page4 .left_box {
+        display: none;
+    }
+
+    .page4 .cont_sec .right_box {
+        width: 39%;
+        position: relative;
+    }
+
+    .page4 .blue_cow_block .hills {
+        height: 21px;
+    }
+
+    .page4 .india_cow_block .hills {
+        width: 100%;
+    }
+
+    .page4 .flower1 {
+        left: 16.5vw;
+        width: 39px;
+    }
+
+    .page5 .mexican {
+        right: 28vw;
+        top: -14vw;
+    }
+
+    .page4 .flower2 {
+        right: 5.8vw;
+        margin: 0px 0 15vw;
+        width: 25px;
+    }
+
+
+    .page4 .cont_sec .text_box {
+        left: 0;
+    }
+
+    .page4 .left_box .bigGrace1 {
+        height: 25vw;
+    }
+
+    .page4 .cont_sec .right_box {
+        width: 39%;
+        right: -2vw;
+    }
+
+    .page4 .right_box .flower {
+        height: 25vw;
+        background-position: -14% 225%;
+        background-size: 110%;
+        bottom: 0vw;
+    }
+
+    .page5 .cloud {
+        height: 44vw;
+        top: -9.3vw;
+    }
+
+    .page5 .tadj {
+        top: -7vw;
+        background-position: 61% 50%;
+        height: 27vw;
+    }
+
+    .page5 .rode {
+        height: 81vw;
+        top: 23.5vw;
+        background-position: bottom;
+        background-size: 236%;
+        align-items: flex-start;
+        padding: 5vw 17vw 0 0;
+    }
+
+    .page5 .cow_section {
+        bottom: 55vw;
+        padding: 0 16vw 0 0vw;
+    }
+
+    .page5 .cow_section .blue_cow_block {
+        width: 54vw;
+    }
+
+    .page5 .cow_section .mexico_cow_p3 {
+        height: 30vw;
+        top: 2.3vw;
+    }
+
+    .page5 .cow_section .mexico_cow_block {
+        width: 30.6vw;
+    }
+
+    .page5 .mexico_cow_block .hills {
+        width: 86%;
+        height: 6.9vw;
+    }
+
+    .page5 .left_box .cactus2,
+    .page5 .cont_sec .right_box {
+        display: none;
+    }
+
+    .page5 .left_box .cactus1 {
+        width: 85%;
+        height: 28vw;
+    }
+
+    .page6 .tadj {
+        top: 47.3vw;
+        height: 61vw;
+        width: 100%;
+        padding: 0vw 16vw 0 0;
+        background-position: -47% 12%;
+        background-size: 108%;
+    }
+
+    .page6 .tadj .tree_box {
+        bottom: 29.3vw;
+    }
+
+    .page6 .tadj .tree_box img:first-of-type {
+        width: 16vw;
+    }
+
+    .page6 .rode {
+        height: 95.2vw;
+        top: 48vw;
+    }
+
+    .page6 .tree_box img:first-of-type {
+        width: 36vw;
+    }
+
+    .page6 .tree_box .tree {
+        width: 27vw;
+    }
+
+    .page6 .cow_section .greece_cow_p3 {
+        width: 88%;
+        height: 36vw;
+    }
+
+    .page6 .cow_section {
+        bottom: 56.5vw;
+    }
+
+    .page6 .cow_section .greece_cow_block {
+        top: 14vw;
+        right: 6vw;
+    }
+
+    .page6 .greece_cow_block .man {
+        right: -5vw;
+        width: 28%;
+        height: 26.9vw;
+    }
+
+    .page6 .blue_cow_block .hills {
+        bottom: -1vw;
+        height: 36px;
+    }
+
+    .page7 .rode {
+        height: 38vw;
+        top: -46vw;
+        padding: 0vw 0 0 46vw;
+    }
+
+    .page7 .tadj {
+        top: 56vw;
+    }
+
+    .page7 .cow_section {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .page7 .cow_section .blue_cow_block {
+        width: 64vw;
+    }
+
+    .page7 .cow_section {
+        bottom: 42.5vw;
+    }
+
+    .page7 .cow_section .spain_cow_block {
+        width: 81.6vw;
+        top: 3vw;
+        left: 16vw;
+    }
+
+    .page7 .matador {
+        width: 36%;
+        height: 38.4vw;
+        top: 0;
+        left: 0;
+    }
+
+    .page7 .cow_section .spain_cow_p3 {
+        width: 34%;
+        height: 41vw;
+    }
+
+    .page7 {
+        background-size: cover;
+    }
+
+    .page7 .cont_sec .dust {
+        top: -16vw;
+        height: 15.4vw;
+    }
+
+    .page8 .tadj {
+        top: 77vw;
+    }
+
+    .page8 .fence {
+        background-size: 158%;
+        height: 16vw;
+        top: 30vw;
+    }
+
+    .page8 .cow_section {
+        bottom: 43vw;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .page8 .cow_section .blue_cow_block {
+        width: 65vw;
+    }
+
+    .page8 .cow_section .american_cow_block {
+        top: 5vw;
+        left: 25vw;
+    }
+
+    .page8 .cow_section .american_cow_p3 {
+        width: 97%;
+        height: 45vw;
+    }
+
+    .page8 .rode {
+        height: 99.5vw;
+        top: -60vw;
+    }
+
+    .page8 .house {
+        right: 78vw;
+        top: -5vw;
+        width: 27vw;
+        height: 14vw;
+    }
+
+    .page8 .cont_sec .dust {
+        top: -9.9vw;
+        width: 79%;
+        height: 13.8vw;
+    }
+
+    .page9 .cloud {
+        height: 27vw;
+    }
+
+    .page9 .tadj {
+        background-size: cover;
+        background-position: 34% top;
+        top: 74vw;
+        height: 37vw;
+        padding: 16vw 3vw 0 0;
+    }
+
+    .page9 .rode {
+        top: -6.2vw;
+        height: 96vw;
+    }
+
+    .page9 .sun {
+        top: -51.5vw;
+        left: 8vw;
+    }
+
+    .page9 .cow_section {
+        bottom: 42.5vw;
+        flex-direction: column;
+        align-items: flex-end;
+    }
+
+    .page9 .cow_section .blue_cow_block {
+        width: 71vw;
+        left: -29vw;
+    }
+
+    .page9 .blue_cow_block .hills {
+        bottom: -8px;
+        width: 100%;
+    }
+
+    .page9 .cow_section .china_cow_block {
+        width: 61.6vw;
+    }
+
+    .page9 .cow_section .china_cow_p3 {
+        width: 82%;
+        height: 31vw;
+    }
+
+    .page9 .cow_section .china_cow_block {
+        top: 4.5vw;
+    }
+
+    .page9 .cont_sec .left_side {
+        width: 36%;
+        height: 43vw;
+        background-position: 0% 58%;
+        background-size: 126%;
+    }
+
+    .page9 .cont_sec .right_box {
+        width: 30%;
+        background-position: 75% 85%;
+        height: 57vw;
+        background-size: 172%;
+        z-index: 9;
+    }
+
+    .page9 .cont_sec .flower3 {
+        width: 4.9vw;
+    }
+
+    .page9 .cont_sec .flower1 {
+        width: 5vw;
+    }
+
+    .page9 .cont_sec .flower2 {
+        width: 5vw;
+    }
+
+    .page9 .right_box .flower2 {
+        left: 4.5vw;
+        top: 5vw;
+    }
+
+    .cloud_p10 {
+        bottom: 136.2vw;
+    }
+
+    .page10 .cows_box {
+        margin-top: 23vw;
+    }
+
+    .page10 .left .cows {
+        width: 85%;
+        height: 25vw;
+    }
+
+    .page10 .left .hills {
+        top: 1vw;
+    }
+
+    .page10 .left .cows_hills {
+        height: 14vw;
+        top: 17vw;
+    }
+
+    .page10 .right .cows {
+        width: 83%;
+        height: 24vw;
+    }
+
+    .page10 .right .cows_hills {
+        height: 15vw;
+        top: 17vw;
+    }
+
+    .page10 .top_section .hills1 {
+        height: 34vw;
+        background-size: cover;
+        bottom: 9vw;
+    }
+
+    .page10 .big_grass {
+        height: 28vw;
+        top: -6vw;
+    }
+
+    .page10 .top_section .hills2 {
+        bottom: -12vw;
+        height: 36vw;
+        background-size: cover;
+    }
+
+    .page10 .grass {
+        width: 19%;
+        height: 16vw;
+        top: 15vw;
+    }
+
+    .fix_cow_p3 {
+        width: 38.6vw;
+        height: 30.8vw;
+        bottom: 51.5vw;
+        left: 11vw;
+
+    }
+
+    .fix_cow_p6 {
+        bottom: 57.5vw;
+        left: 19vw;
+        width: 30vw;
+        height: 23.8vw;
+    }
+
+    .fix_cow_p7 {
+        bottom: 85.5vw;
+        left: 31.3vw;
+        width: 32vw;
+        height: 24.8vw;
+    }
+
+    .fix_cow_p8 {
+        width: 28vw;
+        height: 21.8vw;
+        bottom: 89.5vw;
+        left: 42vw;
+    }
+
+    .fix_cow_p10 {
+        bottom: 95vw;
+        width: 25vw;
+        height: 21vw;
+    }
+}
+
+
+@media all and (max-width:768px) {
+    .page10 .text_box {
+        width: 76%;
+    }
+
+    .page10 .big_grass {
+        width: 100%;
+    }
+
+    @keyframes hills_from_top2 {
+        0% {
+            bottom: -80%;
+            opacity: 0;
+        }
+
+        90% {
+            opacity: 1;
+        }
+
+        100% {
+            bottom: 54vw;
+        }
+    }
+
+    .hills_three {
+        height: 54vw;
+    }
+
+    .bush {
+        width: 75%;
+    }
+
+    .grass_box {
+        bottom: 38vw;
+        left: -3vw;
+    }
+
+    .bigGrace1 {
+        left: 21.5vw;
+        top: 5vw;
+        height: 14vw;
+    }
+
+    .bigGrace2 {
+        top: -8vw;
+        height: 16vw;
+        left: 16.5vw;
+    }
+
+    .bigGrace4 {
+        height: 24vw;
+        left: -25.4vw;
+    }
+
+    .bigGrace3 {
+        left: -21.6vw;
+        height: 20vw;
+    }
+
+    .page2 .cont .text_box {
+        left: -23.5vw;
+        width: 82%;
+    }
+
+    .sec_betwen .grass_box {
+        left: 40vw;
+    }
+
+    .menu {
+        height: 86vw;
+    }
+
+    .page3 .rode {
+        bottom: -28vw;
+        height: 82vw;
+    }
+
+    .page3 .cow_section .hills {
+        height: 33px;
+        bottom: 8vw;
+    }
+
+    .page3 .cow_section .brown_cow {
+        bottom: 3vw;
+    }
+
+    .page3 .cow_section .broun_cow_block .brown_cow_hills {
+        width: 100%;
+        left: 0vw;
+        bottom: 7vw;
+    }
+
+    .page3 .cow_section .broun_cow_block .hills {
+        width: 89%;
+        height: 23px;
+    }
+
+    .page3 .piramide {
+        padding: 0vw 14.5vw 3vw 0;
+    }
+
+    .page4 .tadj {
+        top: -15.8vw;
+    }
+
+    .page4 .rode {
+        top: 4vw;
+    }
+
+    .page4 .left_box .flower {
+        bottom: 3vw;
+    }
+
+    .page4 .right_box .flower {
+        height: 26vw;
+        background-position: -115% 0%;
+        background-size: 116%;
+        bottom: 0vw;
+    }
+
+    .page5 .cloud {
+        height: 48vw;
+        top: -20.3vw;
+    }
+
+    .page5 .cow_section .mexico_cow_p3 {
+        height: 32vw;
+        top: 2.3vw;
+    }
+
+    .page5 .tadj {
+        top: -21vw;
+        background-position: 61% 50%;
+        height: 28vw;
+    }
+
+    .page5 .rode {
+        top: 11.5vw;
+    }
+
+    .page5 .mexican {
+        right: 42vw;
+        top: -17vw;
+    }
+
+    .page5 .mexico_cow_block .hills {
+        left: -1vw;
+    }
+
+    .page5 .rode {
+        padding: 30vw 17vw 0 0;
+    }
+
+    .page6 .rode {
+        height: 97.2vw;
+        top: 42vw;
+    }
+
+    .page6 .cow_section {
+        bottom: 55.5vw;
+    }
+
+    .page6 .cow_section .greece_cow_block {
+        top: 28vw;
+    }
+
+    .page6 .tadj {
+        padding: 0vw 19vw 0 0;
+    }
+
+    .page6 .blue_cow_block .hills {
+        bottom: -11px;
+        height: 44px;
+        background-size: 160%;
+    }
+
+    .page6 .cow_section .greece_cow_p3 {
+        height: 40vw;
+        width: 94%;
+    }
+
+    .page6 .greece_cow_block .man {
+        width: 25%;
+        height: 35.9vw;
+    }
+
+    .page7 .tadj {
+        top: 68vw;
+    }
+
+    .page7 .matador {
+        width: 33%;
+        height: 35.4vw;
+    }
+
+    .page7 .cow_section {
+        bottom: 33.5vw;
+    }
+
+    .page7 .rode {
+        padding: 21vw 0 0vw 56vw;
+    }
+
+    .page7 .cont_sec .dust {
+        top: -12vw;
+        height: 15.4vw;
+    }
+
+    .page8 .cow_section .american_cow_p3 {
+        width: 82%;
+        height: 40vw;
+    }
+
+    .page8 .tadj {
+        top: 91vw;
+    }
+
+    .page8 .blue_cow_block .hills {
+        height: 42px;
+    }
+
+    .page8 .rode {
+        height: 85.5vw;
+        top: -77vw;
+    }
+
+    .page8 .cow_section {
+        bottom: 32vw;
+    }
+
+    .page8 .cow_section .american_cow_block {
+        top: 2vw;
+        left: 30vw;
+    }
+
+    .page8 .cont_sec .dust {
+        top: -8.9vw;
+    }
+
+    .page9 .cow_section .china_cow_p3 {
+        width: 75%;
+        height: 28vw;
+    }
+
+    .page9 .sun {
+        top: -64.5vw;
+        left: 8vw;
+    }
+
+    .page9 .cow_section {
+        bottom: 39.5vw;
+    }
+
+    .page9 .rode {
+        top: -13.2vw;
+        height: 101vw;
+    }
+
+    .page9 .blue_cow_block .hills {
+        width: 102%;
+    }
+
+    .page9 .tadj {
+        top: 81vw;
+        height: 38vw;
+        padding: 10vw 3vw 0 0;
+    }
+
+    .page9 .cont_sec .left_side {
+        height: 38vw;
+    }
+
+    .page9 .cont_sec .right_box {
+        width: 30%;
+        height: 46vw;
+    }
+
+    .cloud_p10 {
+        bottom: 124.2vw;
+    }
+
+    .fix_cow_p7 {
+        bottom: 76.5vw;
+        left: 30.3vw;
+    }
+
+    .fix_cow_p8 {
+        bottom: 73.5vw;
+    }
+
+    .fix_cow_p10 {
+        bottom: 85vw;
+        left: 38vw;
+    }
+}
+
+
+@media all and (max-width:500px) {
+
+    .stars_box .star {
+        width: 13px;
+        height: 13px;
+    }
+
+    .page10 .mes {
+        width: 6vw;
+        height: 5vw;
+    }
+
+    .page10 .text_box .inst {
+        width: 6vw;
+        height: 6vw;
+    }
+
+    .modal_box {
+        font-size: 4.4vw;
+    }
+
+    .close {
+        width: 5vw;
+        height: 5vw;
+        font-size: 5.1vw;
+    }
+
+    .page1,
+    .page2,
+    .page3,
+    .page4,
+    .page5,
+    .page6,
+    .page7,
+    .page8,
+    .page9 {
+        height: 640px;
+    }
+
+    .navbar-collapse {
+        display: none !important;
+    }
+
+    .hills_one {
+        height: 345px;
+        bottom: -91px;
+        animation: hills_from_top 1.5s alternate ease-in-out;
+    }
+
+    @keyframes hills_from_top {
+        0% {
+            bottom: -100%;
+            opacity: 0;
+        }
+
+        90% {
+            opacity: 1;
+        }
+
+        100% {
+            bottom: -91px;
+        }
+    }
+
+    .hills_two {
+        height: 245px;
+        bottom: 180px;
+    }
+
+    @keyframes cow_from_top {
+        0% {
+            bottom: -80%;
+            opacity: 0;
+        }
+
+        90% {
+            opacity: 1;
+        }
+
+        100% {
+            bottom: 316px;
+        }
+    }
+
+    .blue_cow {
+        bottom: 316px;
+        width: 280px;
+        height: 230px;
+        animation: cow_from_top 1.6s alternate ease-in-out;
+    }
+
+    .cloud_p2 {
+        margin: -190px 0 0 0vw;
+        height: 225px;
+    }
+
+    .bush {
+        width: 91%;
+    }
+
+    .bigGrace5 {
+        height: 25vw;
+        left: -28.6vw;
+
+    }
+
+    .bigGrace4 {
+        height: 30vw;
+        left: -33.4vw;
+    }
+
+    .bigGrace3 {
+        height: 28vw;
+        left: -28.6vw;
+    }
+
+    .bigGrace2 {
+        top: -11vw;
+        height: 20vw;
+        left: 27.5vw;
+    }
+
+    .bigGrace1 {
+        left: 26.5vw;
+        top: 3vw;
+    }
+
+    .hills_three {
+        height: 325px;
+        background-size: cover;
+        background-position: 60% 50%;
+        padding: 90px 0 0vw 35px;
+        animation: hills_from_top2 1.8s alternate ease-in-out;
+        bottom: 45px;
+    }
+
+    @keyframes hills_from_top2 {
+        0% {
+            bottom: -80%;
+            opacity: 0;
+        }
+
+        90% {
+            opacity: 1;
+        }
+
+        100% {
+            bottom: 45px;
+        }
+    }
+
+    @keyframes grace_from_top {
+        0% {
+            bottom: -70%;
+            opacity: 0;
+        }
+
+        90% {
+            opacity: 1;
+        }
+
+        100% {
+            bottom: 242px;
+        }
+    }
+
+    .grass_box {
+        bottom: 242px;
+        animation: grace_from_top 1.8s alternate ease-in-out;
+    }
+
+    .page1 .stars_box {
+        width: 100%;
+    }
+
+    .stars_box .star {
+        width: 12px;
+        height: 12px;
+    }
+
+    .page1 .stars_box .star:nth-of-type(29),
+    .page10 .stars_box .star:nth-of-type(29),
+    .page1 .stars_box .star:nth-of-type(28),
+    .page10 .stars_box .star:nth-of-type(28) {
+        width: 12px;
+        height: 12px;
+    }
+
+    .page1 .stars_box .star:nth-of-type(2),
+    .page10 .stars_box .star:nth-of-type(2) {
+        width: 8px;
+        height: 8px;
+    }
+
+    .page1 .stars_box .star:nth-of-type(4),
+    .page10 .stars_box .star:nth-of-type(4) {
+        left: 6vw;
+        top: 20vw;
+    }
+
+    .page1 .stars_box .star:nth-of-type(6),
+    .page10 .stars_box .star:nth-of-type(6) {
+        left: 6vw;
+        top: 1.4vw;
+    }
+
+    .page1 .stars_box .star:nth-of-type(8),
+    .page10 .stars_box .star:nth-of-type(8) {
+        left: 9vw;
+        top: 15.5vw;
+    }
+
+    .page1 .stars_box .star:nth-of-type(11),
+    .page10 .stars_box .star:nth-of-type(11) {
+        left: 6vw;
+        top: 23.5vw;
+    }
+
+    .page1 .stars_box .star:nth-of-type(13),
+    .page10 .stars_box .star:nth-of-type(13) {
+        left: 12vw;
+        top: 1vw;
+    }
+
+    .page1 .stars_box .star:nth-of-type(15),
+    .page10 .stars_box .star:nth-of-type(15) {
+        left: 1vw;
+        top: 18vw;
+    }
+
+    .page1 .stars_box .star:nth-of-type(17),
+    .page10 .stars_box .star:nth-of-type(17) {
+        left: -3vw;
+        top: 24vw;
+    }
+
+    .page1 .stars_box .star:nth-of-type(21),
+    .page10 .stars_box .star:nth-of-type(21) {
+        left: -3vw;
+        top: 18vw;
+    }
+
+    .page1 .stars_box .star:nth-of-type(23),
+    .page10 .stars_box .star:nth-of-type(23) {
+        left: -2.5vw;
+        top: 13vw;
+    }
+
+    .page1 .stars_box .star:nth-of-type(2),
+    .page10 .stars_box .star:nth-of-type(2),
+    .page1 .stars_box .star:nth-of-type(7),
+    .page10 .stars_box .star:nth-of-type(7),
+    .page1 .stars_box .star:nth-of-type(14),
+    .page10 .stars_box .star:nth-of-type(14),
+    .page1 .stars_box .star:nth-of-type(16),
+    .page10 .stars_box .star:nth-of-type(16),
+    .page1 .stars_box .star:nth-of-type(19),
+    .page10 .stars_box .star:nth-of-type(19),
+    .page1 .stars_box .star:nth-of-type(20),
+    .page10 .stars_box .star:nth-of-type(20),
+    .page1 .stars_box .star:nth-of-type(21),
+    .page10 .stars_box .star:nth-of-type(21),
+    .page1 .stars_box .star:nth-of-type(22),
+    .page10 .stars_box .star:nth-of-type(22),
+    .page1 .stars_box .star:nth-of-type(26),
+    .page10 .stars_box .star:nth-of-type(26),
+    .page1 .stars_box .star:nth-of-type(31),
+    .page10 .stars_box .star:nth-of-type(31) {
+        width: 11px;
+        height: 11px;
+    }
+
+    .page2 .cont .stars_box2 {
+        display: none;
+    }
+
+    .page2 .cont {
+        flex-direction: column;
+    }
+
+    .page2 .cont .stars_box {
+        width: 100%;
+        padding: 0;
+    }
+
+    .page2 .cont .stars_box .star:nth-of-type(5) {
+        left: 54vw;
+        top: -9vw;
+    }
+
+    .page2 .cont .stars_box .star:nth-of-type(6) {
+        left: 42.4vw;
+        top: -5.6vw;
+    }
+
+    .page2 .cont .stars_box .star:nth-of-type(7) {
+        left: 78.5vw;
+        top: -1vw;
+    }
+
+    .page2 .cont .stars_box .star:nth-of-type(8) {
+        left: 49vw;
+        top: -24.5vw;
+    }
+
+    .page2 .cont .stars_box .star:nth-of-type(9) {
+        left: 68vw;
+        top: -33vw;
+    }
+
+    .page2 .cont .stars_box .star:nth-of-type(10) {
+        left: 87vw;
+        top: -18vw;
+    }
+
+    .page2 .cont .stars_box .star:nth-of-type(11) {
+        left: 48vw;
+        top: -15.5vw;
+    }
+
+    .page2 .cont .stars_box .star:nth-of-type(12) {
+        left: 81vw;
+        top: -30.5vw;
+    }
+
+    .page2 .cont .stars_box .star:nth-of-type(13) {
+        left: 86.5vw;
+        top: -40.5vw;
+    }
+
+    .page2 .cont .stars_box .star:nth-of-type(14) {
+        left: 30vw;
+        top: -23vw;
+    }
+
+    .page2 .cont .stars_box .star:nth-of-type(15) {
+        left: 35vw;
+        top: -45.5vw;
+    }
+
+    .page2 .cont .stars_box .star:nth-of-type(16) {
+        left: 44vw;
+        top: -43vw;
+    }
+
+    .page2 .cont .stars_box .star:nth-of-type(17) {
+        left: 68vw;
+        top: -36.7vw;
+    }
+
+    .page2 .cont .stars_box .star:nth-of-type(18) {
+        left: 23vw;
+        top: -31vw;
+    }
+
+    .page2 .cont .stars_box .star:nth-of-type(19) {
+        left: 94vw;
+        top: -62.3vw;
+    }
+
+    .page2 {
+        padding: 0vw 0 0;
+        background-color: #e6ad92;
+    }
+
+    .page2 .cont .stars_box {
+        height: 7vw;
+    }
+
+    .page2 .cont .text_box {
+        left: 0;
+        width: 82%;
+        font-size: 3.2vw;
+        padding: 15px 25px;
+    }
+
+    .page2 .cont .text_box img {
+        width: 38px;
+    }
+
+    .page2 .cont h1 {
+        font-size: 5.1vw;
+    }
+
+    .page2 .cont p {
+        margin: 9px 0;
+    }
+
+    .sec_betwen {
+        margin: -55px 0 0;
+        top: 230px;
+    }
+
+    .sec_betwen .grass_box {
+        width: 64%;
+        height: 113px;
+        bottom: 170px;
+    }
+
+    .sec_betwen .grace_sec1 {
+        top: 50px;
+
+        left: -15px;
+
+    }
+
+    .page3 h1,
+    .page4 h1,
+    .page5 h1,
+    .page6 h1,
+    .page7 h1,
+    .page8 h1,
+    .page9 h1 {
+        font-size: 5.4vw;
+    }
+
+    .page3 .piramide {
+        top: 120px;
+        height: 300px;
+        background-position: 70% 50%;
+        padding: 0px 20px 160px 0;
+    }
+
+    .page3 .cow_section .broun_cow_block .hills {
+        display: none;
+    }
+
+    .page3 .cow_section .hills {
+        left: 0;
+        height: 13px;
+        width: 283px;
+        bottom: 35px;
+    }
+
+    .page3 .cow_section .brown_cow {
+        bottom: 0;
+        width: 100%;
+    }
+
+    .page3 .cow_section .broun_cow_block .brown_cow_hills {
+        bottom: 26px;
+    }
+
+    .page3 .cont_sec .text_box,
+    .page4 .cont_sec .text_box,
+    .page5 .cont_sec .text_box,
+    .page6 .cont_sec .text_box,
+    .page7 .cont_sec .text_box,
+    .page8 .cont_sec .text_box,
+    .page9 .cont_sec .text_box {
+        font-size: 3.2vw;
+        width: 68%;
+        padding: 4.1vw;
+        border-radius: 25px 25px 0 0;
+        opacity: 1 !important;
+        transform: translateZ(0) !important;
+    }
+
+    .page7 .cont_sec .text_box {
+        width: 80%;
+        left: 0;
+    }
+
+    .page10 .text_box {
+        font-size: 3.2vw;
+        width: 88%;
+        padding: 20px 30px;
+    }
+
+    .page10 .text_box a {
+        font-size: 4.7vw;
+    }
+
+    .page10 .text_box .note {
+        font-size: 2.7vw;
+    }
+
+
+    .page3 .rode {
+        bottom: -11px;
+        height: 304px;
+
+    }
+
+    .page4 .tadj {
+        top: 0;
+    }
+
+    .page4 .rode {
+        top: 88px;
+        padding: 40px 20px 0 0;
+    }
+
+    .page4 .cow_section {
+        bottom: 248px;
+    }
+
+    .page4 .cow_section .india_cow_p3 {
+        top: -6px;
+    }
+
+    .page4 .blue_cow_block .hills {
+        bottom: 0px;
+    }
+
+    .page4 .flower1 {
+        width: 24px;
+        left: 82.5px;
+        margin: 0 0 15px;
+    }
+
+    .page4 .flower2 {
+        right: 29px;
+        margin: 0px 0 65px;
+        width: 16px;
+    }
+
+    .page4 .right_box .flower {
+        height: 31vw;
+        background-position: -46% 0%;
+        background-size: 115%;
+        bottom: 0vw;
+    }
+
+    .page4 .right_box .bigGrace3 {
+        top: -9vw;
+    }
+
+    .page4 .right_box .bigGrace4 {
+        top: -11vw;
+    }
+
+    .page5 .cloud {
+        top: -119px;
+        height: 204px;
+        background-size: cover;
+    }
+
+    .page5 .tadj {
+        top: 20px;
+        background-position: 99% 50%;
+        height: 140px;
+    }
+
+    .page5 .rode {
+        height: 385px;
+        top: 155px;
+    }
+
+    .page5 .mexican {
+        background-size: contain;
+        background-position: initial;
+        right: 0;
+        top: -125px;
+        height: 160px;
+        width: 100%;
+        padding: 0 0 0 13px;
+        justify-content: flex-start;
+    }
+
+    .page5 .cow_section {
+        bottom: 262px;
+        padding: 0 0 0 0vw;
+    }
+
+    .page5 .cow_section .blue_cow_block {
+        width: 49vw;
+    }
+
+    .page6 .tadj {
+        top: 0;
+        padding: 0 90px 20px 0;
+    }
+
+    .page6 .rode {
+        height: 439px;
+        top: 201px;
+    }
+
+    .page6 .cow_section {
+        bottom: 229px;
+    }
+
+    .page6 .cow_section .greece_cow_block {
+        top: 0vw;
+        right: -25px;
+    }
+
+    .page6 .greece_cow_block .man,
+    .page7 .blue_cow_block .hills {
+        display: none;
+    }
+
+    .page7 .tadj {
+        top: 0;
+    }
+
+    .page7 .rode {
+        padding: 0 0 31px 20px;
+        top: 63px;
+    }
+
+    .page7 .matador {
+        top: 4vw;
+    }
+
+    .page7 .cont_sec .dust {
+        top: -21px;
+        height: 100px;
+    }
+
+    .page8 .tadj {
+        top: 0;
+        padding: 2vw 0 0vw 10vw;
+    }
+
+    .page8 .rode {
+        height: 379px;
+        top: 112px;
+
+    }
+
+    .page8 .house {
+        right: 10px;
+    }
+
+    .page8 .cow_section {
+        bottom: 158px;
+    }
+
+    .page8 .cow_section .american_cow_block {
+        top: -3px;
+        left: 156px;
+    }
+
+    .page8 .cont_sec .dust {
+        top: -66px;
+        left: 20px;
+    }
+
+    .page8,
+    .page7 {
+        background-attachment: scroll;
+    }
+
+    .page8 .blue_cow_block .hills {
+        bottom: -12px;
+        height: 27px;
+    }
+
+    .page9 .tadj {
+        top: -33px;
+        height: 41vw;
+        padding: 0vw 0 6vw 0;
+    }
+
+    .page9 .rode {
+        top: 209px;
+        height: 432px;
+    }
+
+    .page9 .cont_sec .right_box {
+        display: none;
+    }
+
+    .page9 .sun {
+        top: 117px;
+        left: 45px;
+        width: 50px;
+        height: 50px;
+    }
+
+    .cloud_p10 {
+        bottom: 120.2vw;
+    }
+
+    .hills_three p {
+        font-size: 24px;
+    }
+
+    .hills_three img {
+        width: 21px;
+    }
+
+    .hills_three a {
+        margin-top: 10px;
+        font-size: 18px;
+    }
+
+    .page10 .top_section .hills1 {
+        height: 214px;
+        background-size: cover;
+        bottom: 16px;
+    }
+
+    .page10 .big_grass {
+        width: 100%;
+        height: 140px;
+        top: -33px;
+    }
+
+    .page10 .grass {
+        width: 19%;
+        height: 71px;
+        top: 76px;
+    }
+
+    .page10 .top_section .hills2 {
+        bottom: -56px;
+        height: 180px;
+        background-size: cover;
+    }
+
+    .page10 .stars_box {
+        width: 100%;
+    }
+
+    .fix_cow_p3 {
+        width: 38.6vw;
+        height: 30.8vw;
+        bottom: 250px;
+        left: 11vw;
+    }
+
+    .fix_cow {
+        bottom: 250px;
+    }
+
+    .fix_cow_p6 {
+        bottom: 240px;
+        left: 19vw;
+        width: 30vw;
+        height: 23.8vw;
+    }
+
+    .fix_cow_p7 {
+        bottom: 350px;
+        left: 30.3vw;
+    }
+
+    .fix_cow_p8 {
+        bottom: 360px;
+    }
+
+    .fix_cow_p10 {
+        bottom: 414px;
+        left: 38vw;
+    }
+
+    .cloud_p3 {
+        height: 250px;
+    }
+
+    .page10 .top_section .hills2,
+    .page10 .top_section .hills1 {
+        transform: translateZ(0) !important;
+    }
+}
+
+
+@media all and (max-width:425px) {
+    .page3 .cow_section {
+        margin: 26px 0 0;
+    }
+
+    .page5 .tadj {
+        top: 51px;
+        background-position: 67% 50%;
+        height: 167px;
+    }
+
+    .page5 .mexican {
+        top: -97px;
+    }
+
+    .page6 .rode {
+        height: 468px;
+        top: 171px;
+    }
+
+    .page6 {
+        background-attachment: scroll;
+    }
+
+    .page7 .cow_section .spain_cow_block {
+        top: -29px;
+    }
+
+    .page7 .cont_sec .dust {
+        top: -104px;
+    }
+
+    .page7 .rode {
+        padding: 39px 0 0 0;
+        top: 63px;
+        justify-content: flex-end;
+    }
+
+    .page8 .tadj {
+        top: 18px;
+    }
+
+    .page9 .tadj {
+        top: -19px;
+        padding: 61px 0 0;
+    }
+
+    .page9 .cow_section .blue_cow_block {
+        top: -47px;
+    }
+
+    .page9 .rode {
+        top: 197px;
+        height: 444px;
+    }
+
+    .page8 .cow_section .blue_cow_block {
+        top: -20px;
+    }
+
+    .fix_cow_p10 {
+        bottom: 0;
+        top: 113px;
+    }
+
+    .page10 .top_section .hills1 {
+        height: 209px;
+    }
+
+    .page4 .flower1 {
+        width: 19px;
+        left: 71.5px;
+    }
+
+    page4 .flower2 {
+        right: 22px;
+        width: 13px;
+    }
+
+
+}
+
+@media all and (max-width:414px) {
+    .page5 .tadj {
+        height: 176px;
+    }
+
+    .page6 .tadj {
+        top: 6px;
+    }
+
+    .page8 .cow_section .blue_cow_block {
+        top: -27px;
+    }
+
+    .page9 .cow_section .blue_cow_block {
+        top: -55px;
+    }
+
+    .text_section {
+        bottom: 26vw;
+        position: relative;
+    }
+
+    body {
+        background: #8eb3bc;
+        background: linear-gradient(180deg, #3a7399 50%, #8eb3bc 50%);
+        height: -webkit-fit-content;
+        height: fit-content;
+    }
+}
+
+@media all and (max-width:375px) {
+    .fix_cow {
+        bottom: 0;
+        top: 103px;
+    }
+
+    .grass_box {
+        bottom: 265px;
+    }
+
+    @keyframes grace_from_top {
+        0% {
+            bottom: -70%;
+            opacity: 0;
+        }
+
+        90% {
+            opacity: 1;
+        }
+
+        100% {
+            bottom: 265px;
+        }
+    }
+
+    .cloud_p2 {
+        margin: -159px 0 0 0vw;
+        height: 225px;
+    }
+
+    .page3 .cow_section .hills {
+        left: 0;
+        height: 18px;
+        width: 186px;
+        bottom: 30px;
+    }
+
+    .page3 .cow_section .brown_cow {
+        bottom: 4px;
+        width: 94%;
+    }
+
+    .page4 .rode {
+        top: 88px;
+        padding: 15px 50px 0 0;
+        align-items: flex-start;
+    }
+
+    .page5 .cow_section {
+        bottom: 233px;
+        padding: 0 0 0 0vw;
+    }
+
+    .page5 .tadj {
+        top: 116px;
+    }
+
+    .page5 .mexican {
+        top: -48px;
+        right: -118px;
+    }
+
+    .page6 h1 {
+        position: relative;
+        top: 49px;
+        z-index: 1;
+    }
+
+    .page8 .tadj {
+        top: 29px;
+    }
+
+    .page4 .flower1 {
+        left: 61.5px;
+    }
+
+    .page4 .flower2 {
+        right: 23px;
+        margin: 0px 0 56px;
+        width: 13px;
+    }
+
+    .page6 .tadj {
+        top: 22px;
+        padding: 0 90px 20px 0;
+        height: 226px;
+    }
+
+    .page7 .cow_section .spain_cow_block {
+        top: -58px;
+    }
+
+    .page7 .cont_sec .dust {
+        top: -115px;
+    }
+
+    .page8 .cow_section .blue_cow_block {
+        top: -48px;
+    }
+
+    .page9 .cow_section .blue_cow_block {
+        top: -82px;
+    }
+
+    .page9 .tadj {
+        height: 164px;
+        top: -11px;
+    }
+
+    .page10 .top_section .hills1 {
+        height: 197px;
+    }
+}
+
+@media all and (max-width:360px) {
+    .page3 .cow_section {
+        margin: 44px 0 0;
+    }
+
+    .page4 .flower1 {
+        left: 57.5px;
+    }
+
+    .page4 .tadj {
+        top: 44px;
+    }
+
+    .page4 .rode {
+        top: 114px;
+        padding: 40px 20px 0 0;
+    }
+
+    .page5 .tadj {
+        top: 53px;
+        background-position: 71% 50%;
+        height: 181px;
+    }
+
+    .page5 .rode {
+        top: 114px;
+    }
+
+    .page5 .mexican {
+        top: -49px;
+    }
+
+    .page6 .tadj {
+        top: 27px;
+    }
+
+    .page8 .tadj {
+        top: 17px;
+        height: 100px;
+    }
+
+    .page9 .cow_section .blue_cow_block {
+        top: -93px;
+    }
+
+}
+
+@media all and (max-width:320px) {
+    .cloud_p3 {
+        height: 268px;
+    }
+
+    .page3 .cow_section {
+        margin: 58px 0 0;
+    }
+
+    .page4 .rode {
+        top: 168px;
+    }
+
+    .page4 .tadj {
+        top: 99px;
+    }
+
+    .page5 .tadj {
+        top: 77px;
+    }
+
+    .page4 .flower2 {
+        right: 18px;
+        margin: 0px 0 13vw;
+        width: 10px;
+    }
+
+    .page4 .flower1 {
+        width: 15px;
+    }
+
+    .page5 .mexican {
+        top: -19px;
+    }
+
+    .page6 .tadj {
+        top: 40px;
+    }
+
+    .page6 .tadj .tree_box {
+        bottom: 123px;
+    }
+
+    .page6 h1 {
+        position: relative;
+        top: 36px;
+        z-index: 1;
+    }
+
+    .page7 .tadj {
+        top: 13px;
+    }
+
+    .page8 .cow_section .blue_cow_block {
+        top: -70px;
+    }
+
+    .page9 .cow_section .blue_cow_block {
+        top: -120px;
+    }
+
+    .page10 .big_grass {
+        width: 101%;
+        height: 108px;
+        top: -18px;
+        background-position: 90% 50%;
+        background-size: 122%;
+    }
+
+    .page10 .top_section .hills1 {
+        height: 186px;
+    }
+
+    .fix_cow10 {
+        bottom: 0;
+        top: 88px;
+    }
+}
