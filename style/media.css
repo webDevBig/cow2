@@ -2321,7 +2321,7 @@
     }
 
     .page3 .cow_section {
-        margin: -1.7vw 0 0;
+        margin: -5.7vw 0 0;
     }
 
     .page3 .piramide {
@@ -2400,8 +2400,11 @@
     }
 
     .page8 .cow_section {
-        bottom: 18vw;
+        bottom: 16vw;
     }
+    .page8 .cow_section .blue_cow_block {
+    top: 2vw;
+}
 
     .page8 .tadj {
         top: 75vw;
@@ -2444,7 +2447,7 @@
     }
 
     .fix_cow_p8 {
-        bottom: 18.5vw;
+        bottom: 15.5vw;
     }
 
     .fix_cow_p10 {
