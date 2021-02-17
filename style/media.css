@@ -926,10 +926,16 @@
     .page4 {
         margin: -54.5vw 0 0;
     }
+
+    .page7 .rode {
+        height: 21vw;
+        top: -51vw;
+        padding: 4vw 0 0 26vw;
+    }
 }
 
 @media all and (max-width:1440px) and (max-height:720px) {
-   
+
     .page4 {
         margin: -54.5vw 0 0;
     }
@@ -2328,7 +2334,7 @@
         height: 26.5vw;
         width: 88%;
         top: 38vw;
-        padding: 5vw 9.5vw 0 0;
+        padding: 0vw 9.5vw 0 0;
     }
 
     .page3 .cow_section .broun_cow_block .hills {
@@ -2364,14 +2370,14 @@
     }
 
     .page5 .mexican {
-       top: -18vw;
-    width: 34.3vw;
-    padding: 0 6vw 0 0;
+        top: -18vw;
+        width: 34.3vw;
+        padding: 0 6vw 0 0;
     }
 
     .page6 .tadj {
         top: 41vw;
-    padding: 1vw 10vw 0 0;
+        padding: 1vw 10vw 0 0;
     }
 
     .page6 .cow_section .greece_cow_p3 {
@@ -2402,9 +2408,10 @@
     .page8 .cow_section {
         bottom: 16vw;
     }
+
     .page8 .cow_section .blue_cow_block {
-    top: 2vw;
-}
+        top: 2vw;
+    }
 
     .page8 .tadj {
         top: 75vw;
@@ -4717,14 +4724,14 @@
     }
 
     .page5 .mexican {
-       background-size: contain;
-    background-position: right;
-    right: 0;
-    top: -125px;
-    height: 160px;
-    width: 100%;
-    padding: 0 29px 0 0px;
-    justify-content: flex-end;
+        background-size: contain;
+        background-position: right;
+        right: 0;
+        top: -125px;
+        height: 160px;
+        width: 100%;
+        padding: 0 29px 0 0px;
+        justify-content: flex-end;
     }
 
     .page5 .cow_section {
