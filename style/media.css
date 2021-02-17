@@ -4713,14 +4713,14 @@
     }
 
     .page5 .mexican {
-        background-size: contain;
-        background-position: initial;
-        right: 0;
-        top: -125px;
-        height: 160px;
-        width: 100%;
-        padding: 0 0 0 13px;
-        justify-content: flex-start;
+       background-size: contain;
+    background-position: right;
+    right: 0;
+    top: -125px;
+    height: 160px;
+    width: 100%;
+    padding: 0 29px 0 0px;
+    justify-content: flex-end;
     }
 
     .page5 .cow_section {
@@ -4965,6 +4965,7 @@
 
     .page5 .mexican {
         top: -97px;
+        padding: 0 47px 0 0px;
     }
 
     .page6 .rode {
