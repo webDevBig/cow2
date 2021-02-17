@@ -78,6 +78,17 @@
     background-image: url(../img/page3/cow_sec@2x.png);
 }
 
+.fix_cow_p9 {
+    position: fixed;
+    width: 17vw;
+    height: 13.8vw;
+    bottom: 22.5vw;
+    left: 27vw;
+    opacity: 1;
+    transition: all 2s;
+    background-image: url(../img/page3/cow_sec@2x.png);
+}
+
 .fix_cow_p10 {
     position: fixed;
     opacity: 1;
@@ -102,9 +113,18 @@
 .prl1 {
     position: sticky;
     top: 13.5vw;
-    z-index: 15;
+    z-index: 9;
     padding: 0 0 44vw;
     transition: 2s;
+}
+
+.prl1 .cows_all {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-end;
+    position: relative;
 }
 
 .prl2 {
@@ -143,9 +163,9 @@
 .spain_cow_animate {
     width: 12.6vw;
     height: 13.8vw;
-    left: -2.5vw;
-    top: 0vw;
-    transition: all 2s !important;
+    left: -4.5vw;
+    top: 7vw;
+    transition: opacity .5s, width 2s, height 2s, left 2s, top 2s !important;
     background-image: url(../img/spain_cow.png);
     background-position: center;
     background-repeat: no-repeat;
@@ -153,15 +173,14 @@
     object-fit: cover;
     pointer-events: none;
     position: absolute;
-    opacity: 0;
 }
 
 .greece_cow_animate {
     width: 23.6vw;
     height: 14.4vw;
-    left: -14.9vw;
-    top: -0.4vw;
-    transition: all 2s !important;
+    left: -14vw;
+    top: 6vw;
+    transition: opacity .5s, width 2s, height 2s, left 2s, top 2s !important;
     background-image: url(../img/greece_cow.png);
     background-position: center;
     background-repeat: no-repeat;
@@ -169,21 +188,21 @@
     object-fit: cover;
     pointer-events: none;
     position: absolute;
-    opacity: 0;
 }
 
 .greece_cow_animate_p8 {
     left: -7.6vw;
-    transition: all 2s !important;
+    top: 6vw;
+    transition: opacity .5s, width 2s, height 2s, left 2s, top 2s !important;
     opacity: 1;
 }
 
 .mexico_cow_animate {
     width: 17.6vw;
     height: 18vw;
-    left: 5vw;
-    top: 0vw;
-    transition: all 2s !important;
+    top: 8vw;
+    left: 6vw;
+    transition: opacity .5s, width 2s, height 2s, left 2s, top 2s !important;
     background-image: url(../img/mexican_cow.png);
     background-position: center;
     background-repeat: no-repeat;
@@ -191,33 +210,32 @@
     object-fit: cover;
     pointer-events: none;
     position: absolute;
-    opacity: 0;
 }
 
 .mexico_cow_animate_p7 {
     width: 13.6vw;
     height: 14.3vw;
-    left: 1.2vw;
-    top: -0.6vw;
+    top: 6vw;
+    left: 3vw;
     opacity: 1;
-    transition: all 2s !important;
+    transition: opacity .5s, width 2s, height 2s, left 2s, top 2s !important;
 }
 
 .mexico_cow_animate_p8 {
     left: 10.5vw;
     width: 13.6vw;
     height: 13.3vw;
-    top: -0vw;
+    top: 7vw;
     opacity: 1;
-    transition: all 2s !important;
+    transition: opacity .5s, width 2s, height 2s, left 2s, top 2s !important;
 }
 
 .india_cow_animate {
-    width: 32.9vw;
-    height: 23.4vw;
-    left: -9.5vw;
-    top: 0vw;
-    transition: all 2s !important;
+    width: 33.9vw;
+    height: 24.4vw;
+    left: -7vw;
+    top: 2vw;
+    transition: opacity .5s, width 2s, height 2s, left 2s, top 2s !important;
     background-image: url(../img/india_cow.png);
     background-position: center;
     background-repeat: no-repeat;
@@ -225,42 +243,41 @@
     object-fit: cover;
     pointer-events: none;
     position: absolute;
-    opacity: 0;
 }
 
 .india_cow_animate_p6 {
-    width: 23.3vw;
-    height: 17.3vw;
+    width: 24.3vw;
+    height: 18vw;
     left: 10vw;
-    top: 4.8vw;
+    top: 8vw;
     opacity: 1;
-    transition: all 2s !important;
+    transition: opacity .5s, width 2s, height 2s, left 2s, top 2s !important;
 }
 
 .india_cow_animate_p7 {
     width: 18.9vw;
     height: 13.7vw;
-    left: 2.8vw;
-    top: 5.5vw;
+    left: 4vw;
+    top: 6vw;
     opacity: 1;
-    transition: all 2s !important;
+    transition: opacity .5s, width 2s, height 2s, left 2s, top 2s !important;
 }
 
 .india_cow_animate_p8 {
     width: 17.9vw;
     height: 12.7vw;
-    left: 12.3vw;
-    top: 5.5vw;
+    left: 14vw;
+    top: 7.5vw;
     opacity: 1;
-    transition: all 2s !important;
+    transition: opacity .5s, width 2s, height 2s, left 2s, top 2s !important;
 }
 
 .egypt_cow_animate {
     width: 33.6vw;
     height: 26.3vw;
-    left: -4vw;
-    top: 0.2vw;
-    transition: all 2s !important;
+    top: 0;
+    left: 0;
+    transition: opacity .5s, width 2s, height 2s, left 2s, top 2s !important;
     background-image: url(../img/egypt_cow.png);
     background-position: center;
     background-repeat: no-repeat;
@@ -268,90 +285,130 @@
     object-fit: cover;
     pointer-events: none;
     position: absolute;
-    opacity: 0;
-
 }
 
 .egypt_cow_animate_p6 {
     width: 23vw;
     height: 19.3vw;
-    left: 17vw;
-    top: 5vw;
+    left: 18vw;
+    top: 7vw;
     opacity: 1;
-    transition: all 2s !important;
+    transition: opacity .5s, width 2s, height 2s, left 2s, top 2s !important;
 }
 
 .egypt_cow_animate_p7 {
     width: 18.9vw;
     height: 15vw;
-    left: 8.8vw;
-    top: 5.5vw;
+    left: 9vw;
+    top: 5vw;
     opacity: 1;
-    transition: all 2s !important;
+    transition: opacity .5s, width 2s, height 2s, left 2s, top 2s !important;
 }
 
 .egypt_cow_animate_p8 {
     width: 17.9vw;
     height: 14.7vw;
-    left: 17.8vw;
-    top: 5.5vw;
+    left: 19vw;
+    top: 6vw;
     opacity: 1;
-    transition: all 2s !important;
+    transition: opacity .5s, width 2s, height 2s, left 2s, top 2s !important;
+}
+
+.opacity {
+    opacity: 0 !important;
 }
 
 @media all and (max-width:1440px) {
+
     .egypt_cow_animate {
         top: 6vw;
     }
 
     .india_cow_animate {
-        top: 6.6vw;
+        top: 8vw;
+
     }
 
-    .spain_cow_animate {
-        top: 2vw;
-    }
-
-    .greece_cow_animate_p8 {
-        top: 1.6vw;
-    }
-
-    .mexico_cow_animate_p8 {
-        top: 2vw;
-    }
-
-    .india_cow_animate_p8 {
+    .mexico_cow_animate_p7 {
         top: 7.5vw;
     }
 
-    .egypt_cow_animate_p8 {
+    .greece_cow_animate {
+        top: 7.5vw;
+    }
+
+    .spain_cow_animate {
         top: 8vw;
     }
+
 }
 
 @media all and (max-width:1440px) and (max-height:800px) {
     .egypt_cow_animate {
-        top: -3.8vw;
-    }
-
-    .egypt_cow_animate_p6 {
-        top: 2vw;
-    }
-
-    .egypt_cow_animate_p7 {
-        top: 5.5vw;
-    }
-
-    .egypt_cow_animate_p8 {
-        top: 4.5vw;
+        top: -1.5vw;
     }
 
     .india_cow_animate {
-        top: -3.4vw;
+        top: 1vw;
     }
 
     .india_cow_animate_p6 {
-        top: 1.8vw;
+        top: 7vw;
+    }
+
+    .india_cow_animate_p7 {
+        top: 8vw;
+    }
+
+    .egypt_cow_animate_p6 {
+        top: 6vw;
+    }
+
+    .egypt_cow_animate_p7 {
+        top: 7vw;
+    }
+
+    .egypt_cow_animate_p8 {
+        top: 7vw;
+    }
+
+    .india_cow_animate_p8 {
+        top: 8.5vw;
+    }
+
+    .mexico_cow_animate_p8 {
+        top: 8vw;
+    }
+}
+
+@media all and (max-width:1440px) and (max-height:760px) {
+
+    .egypt_cow_animate {
+        top: -3.5vw;
+    }
+    
+.egypt_cow_animate_p6 {
+    width: 23vw;
+    height: 19.3vw;
+    left: 18vw;
+     top: 6vw;
+    opacity: 1;
+    transition: opacity .5s, width 2s, height 2s, left 2s, top 2s !important;
+}
+    .egypt_cow_animate_p7 {
+        top: 4vw;
+    }
+
+    .egypt_cow_animate_p8 {
+        top: 4vw;
+    }
+
+    .india_cow_animate {
+        top: -1vw;
+    }
+
+    .india_cow_animate_p6 {
+        top: 5vw;
     }
 
     .india_cow_animate_p7 {
@@ -359,41 +416,775 @@
     }
 
     .india_cow_animate_p8 {
-        top: 3.5vw;
+        top: 5.5vw;
+    }
+
+    .egypt_cow_animate_p6 {
+        top: 4vw;
     }
 
     .mexico_cow_animate {
-        top: -4.2vw;
+        top: 5vw;
     }
 
     .mexico_cow_animate_p7 {
-        top: -1vw;
+        top: 4.5vw;
     }
 
     .mexico_cow_animate_p8 {
-        top: -1.4vw;
+        top: 5vw;
     }
 
-    .greece_cow_animate_p8 {
-        top: -2.4vw;
+    .greece_cow_animate {
+        top: 4.5vw;
     }
 
     .spain_cow_animate {
-        top: -1.8vw;
-    }
-
-    .prl {
-        padding: 0 0 32vw;
-    }
-
-    .prl2 {
-        padding: 0 0 36.5vw;
+        top: 5vw;
     }
 
     .prl1 {
-        padding: 0 0 40vw;
+        padding: 0 0 40.5vw;
+    }
+}
+
+@media all and (max-width:1440px) and (max-height:720px) {
+    .egypt_cow_animate {
+        top: -4.5vw;
+    }
+}
+
+@media all and (max-width:1366px) and (max-height:768px) {
+    .egypt_cow_animate {
+        top: -0.5vw;
+    }
+
+    .egypt_cow_animate_p6 {
+        top: 7vw;
+    }
+
+    .india_cow_animate_p6 {
+        top: 8vw;
+    }
+}
+
+@media all and (max-width:1366px) and (max-height:720px) {
+    .egypt_cow_animate {
+        top: -1.5vw;
+    }
+
+    .egypt_cow_animate_p7 {
+        top: 6vw;
+    }
+
+    .egypt_cow_animate_p8 {
+        top: 6vw;
+    }
+
+    .india_cow_animate {
+        top: 1vw;
+    }
+
+    .india_cow_animate_p7 {
+        top: 7vw;
+    }
+
+    .india_cow_animate_p8 {
+        top: 7.5vw;
+    }
+
+    .mexico_cow_animate {
+        top: 8vw;
+    }
+
+    .mexico_cow_animate_p7 {
+        top: 7vw;
+    }
+
+    .mexico_cow_animate_p8 {
+        top: 7.5vw;
+    }
+
+    .greece_cow_animate {
+        top: 7vw;
+    }
+
+    .spain_cow_animate {
+        top: 7.5vw;
     }
 
 }
-@media all and (max-width:1440px) and (max-height:720px) {
+
+@media all and (max-width:1280px) and (max-height:850px) {
+    .egypt_cow_animate {
+        top: 9vw;
+    }
+
+    .egypt_cow_animate_p6 {
+        top: 10vw;
+    }
+
+    .egypt_cow_animate_p7 {
+        top: 10vw;
+    }
+
+    .egypt_cow_animate_p8 {
+        top: 10vw;
+    }
+
+    .india_cow_animate {
+        top: 12vw;
+    }
+
+    .india_cow_animate_p6 {
+        top: 11.5vw;
+    }
+
+    .mexico_cow_animate {
+        top: 12vw;
+    }
+
+    .mexico_cow_animate_p7 {
+        top: 10.5vw;
+    }
+
+    .greece_cow_animate {
+        top: 10.5vw;
+    }
+
+    .spain_cow_animate {
+        top: 11vw;
+    }
+
+    .prl1 {
+        padding: 0 0 53vw;
+    }
 }
+
+@media all and (max-width:1280px) and (max-height:800px) {
+    .egypt_cow_animate {
+        top: 6vw;
+    }
+
+    .egypt_cow_animate_p6 {
+        top: 13vw;
+    }
+
+    .egypt_cow_animate_p7 {
+        top: 14vw;
+    }
+
+    .egypt_cow_animate_p8 {
+        top: 14vw;
+    }
+
+    .india_cow_animate {
+        top: 15vw;
+    }
+
+    .india_cow_animate_p6 {
+        top: 14.5vw;
+    }
+
+    .mexico_cow_animate {
+        top: 15vw;
+    }
+
+    .mexico_cow_animate_p7 {
+        top: 14.5vw;
+    }
+
+    .greece_cow_animate {
+        top: 14.5vw;
+    }
+
+    .spain_cow_animate {
+        top: 15.5vw;
+    }
+
+    .prl1 {
+        padding: 0 0 53vw;
+    }
+
+}
+
+@media all and (max-width:1280px) and (max-height:720px) {
+    .egypt_cow_animate {
+        top: 1vw;
+    }
+
+    .egypt_cow_animate_p6 {
+        top: 7vw;
+    }
+
+    .egypt_cow_animate_p7 {
+        top: 9vw;
+    }
+
+    .egypt_cow_animate_p8 {
+        top: 4vw;
+    }
+
+    .india_cow_animate {
+        top: 3vw;
+    }
+
+    .india_cow_animate_p6 {
+        top: 8.5vw;
+    }
+
+    .india_cow_animate_p7 {
+        top: 10vw;
+    }
+
+    .india_cow_animate_p8 {
+        top: 6vw;
+    }
+
+    .mexico_cow_animate {
+        top: 8vw;
+    }
+
+    .mexico_cow_animate_p7 {
+        top: 10.5vw;
+    }
+
+    .mexico_cow_animate_p8 {
+        top: 5vw;
+    }
+
+    .greece_cow_animate {
+        top: 10.5vw;
+    }
+
+    .greece_cow_animate_p8 {
+        top: 4.5vw;
+    }
+
+    .spain_cow_animate {
+        top: 5.5vw;
+    }
+
+    .prl1 {
+        padding: 0 0 44vw;
+    }
+
+}
+
+@media all and (max-width:1280px) and (max-height:650px) {
+    .egypt_cow_animate {
+        top: -3vw;
+    }
+
+    .egypt_cow_animate_p6 {
+        top: 4.5vw;
+    }
+
+    .egypt_cow_animate_p7 {
+        top: 4vw;
+    }
+
+    .egypt_cow_animate_p8 {
+        top: 4vw;
+    }
+
+    .india_cow_animate {
+        top: 0vw;
+    }
+
+    .india_cow_animate_p6 {
+        top: 5.5vw;
+    }
+
+    .india_cow_animate_p7 {
+        top: 5vw;
+    }
+
+    .india_cow_animate_p8 {
+        top: 6vw;
+    }
+
+    .mexico_cow_animate {
+        top: 5.5vw;
+    }
+
+    .mexico_cow_animate_p7 {
+        top: 4.5vw;
+    }
+
+    .mexico_cow_animate_p8 {
+        top: 5vw;
+    }
+
+    .greece_cow_animate {
+        top: 5vw;
+    }
+
+    .greece_cow_animate_p8 {
+        top: 4.5vw;
+    }
+
+    .spain_cow_animate {
+        top: 5.5vw;
+    }
+
+    .prl1 {
+        padding: 0 0 44vw;
+    }
+
+}
+
+
+@media all and (max-width:1112px) and (max-height:834px) {
+    .egypt_cow_animate {
+        top: 7vw;
+    }
+
+    .egypt_cow_animate_p6 {
+        top: 11.5vw;
+    }
+
+    .egypt_cow_animate_p7 {
+        top: 10vw;
+    }
+
+    .egypt_cow_animate_p8 {
+        top: 10vw;
+    }
+
+    .india_cow_animate {
+        top: 10vw;
+    }
+
+    .india_cow_animate_p6 {
+        top: 13vw;
+    }
+
+    .india_cow_animate_p7 {
+        top: 11vw;
+    }
+
+    .india_cow_animate_p8 {
+        top: 12vw;
+    }
+
+    .mexico_cow_animate {
+        top: 13.5vw;
+    }
+
+    .mexico_cow_animate_p7 {
+        top: 11vw;
+    }
+
+    .mexico_cow_animate_p8 {
+        top: 12vw;
+    }
+
+    .greece_cow_animate {
+        top: 11vw;
+    }
+
+    .greece_cow_animate_p8 {
+        top: 10.5vw;
+    }
+
+    .spain_cow_animate {
+        top: 11.5vw;
+    }
+
+    .prl1 {
+        padding: 0 0 63vw;
+    }
+
+}
+
+@media all and (max-width:900px) and (max-height:1280px) {
+
+    .egypt_cow_animate {
+        width: 40.6vw;
+        height: 34.3vw;
+        top: 44vw;
+        left: -7vw;
+    }
+
+    .egypt_cow_animate_p6 {
+        width: 31vw;
+        height: 26.3vw;
+        left: 9vw;
+        top: 46vw;
+    }
+
+    .egypt_cow_animate_p7 {
+        width: 36.9vw;
+        height: 29vw;
+        left: 16vw;
+        top: 15vw;
+    }
+
+    .egypt_cow_animate_p8 {
+        width: 29.6vw;
+        height: 23.3vw;
+        top: 17vw;
+        left: 29vw;
+    }
+
+    .india_cow_animate {
+        top: 45vw;
+        width: 43.9vw;
+        height: 32.4vw;
+        left: -19vw;
+    }
+
+    .india_cow_animate_p6 {
+        top: 47vw;
+        width: 34.9vw;
+        height: 25.4vw;
+        left: -2vw;
+    }
+
+    .india_cow_animate_p7 {
+        top: 18vw;
+        width: 34.9vw;
+        height: 25.4vw;
+        left: 10vw;
+    }
+
+    .india_cow_animate_p8 {
+        top: 18vw;
+        width: 30.9vw;
+        height: 22.4vw;
+        left: 18vw;
+    }
+
+    .mexico_cow_animate {
+        width: 24.6vw;
+        height: 25vw;
+        top: 48vw;
+        left: 1vw;
+    }
+
+    .mexico_cow_animate_p7 {
+        top: 18.5vw;
+        width: 25.6vw;
+        height: 26.3vw;
+        left: 6vw;
+    }
+
+    .mexico_cow_animate_p8 {
+        left: 17.5vw;
+        width: 22.6vw;
+        height: 22.3vw;
+        top: 17vw;
+    }
+
+    .greece_cow_animate {
+        top: 20.5vw;
+        width: 37.6vw;
+        height: 23.4vw;
+        left: -20vw;
+    }
+
+    .greece_cow_animate_p8 {
+        top: 17.5vw;
+        width: 37.6vw;
+        height: 23.4vw;
+        left: -9vw;
+    }
+
+    .spain_cow_animate {
+        top: 17vw;
+        width: 21.6vw;
+        height: 23.8vw;
+        left: -4.5vw;
+    }
+}
+
+@media all and (max-width:768px) {
+    .egypt_cow_animate {
+        top: 35vw;
+    }
+
+    .egypt_cow_animate_p6 {
+        top: 37vw;
+    }
+
+    .egypt_cow_animate_p7 {
+        width: 36.9vw;
+        height: 29vw;
+        left: 16vw;
+        top: 15vw;
+    }
+
+    .india_cow_animate {
+        top: 37vw;
+    }
+
+    .india_cow_animate_p6 {
+        top: 39vw;
+    }
+
+    .india_cow_animate_p7 {
+        top: 18vw;
+        width: 34.9vw;
+        height: 25.4vw;
+        left: 10vw;
+    }
+
+    .mexico_cow_animate {
+        top: 39vw;
+        left: -2vw;
+    }
+}
+
+
+@media all and (max-width:500px) {
+    .egypt_cow_animate {
+        top: 30vw;
+    }
+
+    .egypt_cow_animate_p6 {
+        top: 41vw;
+    }
+
+    .egypt_cow_animate_p8 {
+        width: 29.6vw;
+        height: 23.3vw;
+        top: 17vw;
+        left: 29vw;
+    }
+
+    .india_cow_animate {
+        top: 33vw;
+    }
+
+    .india_cow_animate_p6 {
+        top: 42vw;
+    }
+
+    .india_cow_animate_p8 {
+        top: 18vw;
+        width: 30.9vw;
+        height: 22.4vw;
+        left: 18vw;
+    }
+
+    .mexico_cow_animate {
+        top: 42vw;
+    }
+
+    .mexico_cow_animate_p7 {
+        top: 18.5vw;
+        width: 25.6vw;
+        height: 26.3vw;
+        left: 6vw;
+    }
+
+
+    .prl1 {
+        padding: 0 0 590px;
+    }
+}
+
+@media all and (max-width:425px) {
+    .egypt_cow_animate {
+        top: 44vw;
+    }
+
+    .egypt_cow_animate_p6 {
+        top: 55vw;
+    }
+
+    .egypt_cow_animate_p7 {
+        top: 27vw;
+    }
+
+    .egypt_cow_animate_p8 {
+        width: 29.6vw;
+        height: 23.3vw;
+        top: 17vw;
+        left: 29vw;
+    }
+
+    .india_cow_animate {
+        top: 46vw;
+    }
+
+    .india_cow_animate_p6 {
+        top: 55vw;
+    }
+
+    .india_cow_animate_p7 {
+        top: 30vw;
+    }
+
+    .india_cow_animate_p8 {
+        top: 18vw;
+        width: 30.9vw;
+        height: 22.4vw;
+        left: 18vw;
+    }
+
+    .mexico_cow_animate {
+        top: 55vw;
+    }
+
+    .mexico_cow_animate_p7 {
+        top: 28.5vw;
+        width: 25.6vw;
+        height: 26.3vw;
+        left: 6vw;
+    }
+
+    .mexico_cow_animate_p8 {
+        top: 18vw;
+        left: 15vw;
+    }
+
+    .greece_cow_animate {
+        top: 31.5vw;
+        width: 40.6vw;
+        height: 24.4vw;
+        left: -23vw;
+    }
+
+    .greece_cow_animate_p8 {
+        top: 15.5vw;
+        width: 40.6vw;
+        height: 24.4vw;
+        left: -12vw;
+    }
+
+    .prl1 {
+        padding: 0px 0 512px;
+    }
+
+}
+
+@media all and (max-width:414px) {
+    .egypt_cow_animate {
+        top: 46vw;
+    }
+
+    .egypt_cow_animate_p6 {
+        top: 57vw;
+    }
+
+    .egypt_cow_animate_p7 {
+        top: 27vw;
+    }
+
+    .egypt_cow_animate_p8 {
+        width: 29.6vw;
+        height: 23.3vw;
+        top: 17vw;
+        left: 29vw;
+    }
+
+    .india_cow_animate {
+        top: 48vw;
+    }
+
+    .india_cow_animate_p6 {
+        top: 58vw;
+    }
+
+    .india_cow_animate_p7 {
+        top: 30vw;
+    }
+
+    .india_cow_animate_p8 {
+        top: 18vw;
+        width: 30.9vw;
+        height: 22.4vw;
+        left: 18vw;
+    }
+
+    .mexico_cow_animate {
+        top: 58vw;
+    }
+
+    .mexico_cow_animate_p7 {
+        top: 28.5vw;
+        width: 25.6vw;
+        height: 26.3vw;
+        left: 6vw;
+    }
+
+    .mexico_cow_animate_p8 {
+        top: 18vw;
+        left: 15vw;
+    }
+
+    .greece_cow_animate {
+        top: 31.5vw;
+        width: 40.6vw;
+        height: 24.4vw;
+        left: -23vw;
+    }
+
+    .prl1 {
+        padding: 0px 0 547px;
+    }
+}
+
+@media all and (max-width:375px) {
+    .egypt_cow_animate {
+        top: 11vw;
+    }
+
+    .india_cow_animate {
+        top: 13vw;
+    }
+
+    .greece_cow_animate_p8 {
+        top: 15.5vw;
+        width: 40.6vw;
+        height: 24.4vw;
+        left: -12vw;
+    }
+
+    .mexico_cow_animate {
+        top: 12vw;
+    }
+
+    .mexico_cow_animate_p7 {
+        top: 13.5vw;
+        width: 25.6vw;
+        height: 26.3vw;
+        left: 6vw;
+    }
+
+    .mexico_cow_animate_p8 {
+        top: 12vw;
+        left: 15vw;
+    }
+
+    .greece_cow_animate {
+        top: 15.5vw;
+        width: 40.6vw;
+        height: 24.4vw;
+        left: -23vw;
+    }
+
+    .greece_cow_animate_p8 {
+        top: 11.5vw;
+        width: 40.6vw;
+        height: 24.4vw;
+        left: -12vw;
+    }
+
+    .spain_cow_animate {
+        top: 12vw;
+        width: 21.6vw;
+        height: 23.8vw;
+        left: -4.5vw;
+    }
+
+    .prl1 {
+        padding: 0px 0 472px;
+    }
+}
+
+@media all and (max-width:360px) {}
+
+@media all and (max-width:320px) {}

@@ -8,7 +8,6 @@
 @import url(page8.css);
 @import url(page9.css);
 @import url(page10.css);
-@import url(cows_animate.css);
 
 * {
     margin: 0;
@@ -275,4 +274,42 @@ body {
     top: 0.5vw;
     position: relative;
     height: 15vw;
+}
+.menu a.dropdown-item {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25px;
+}
+
+.menu a.dropdown-item img {
+    width: 23px;
+}
+
+.menu .dropdown {
+    border-radius: 50%;
+    border: 2px solid white;
+    width: 44px;
+    height: 44px;
+    cursor: pointer;
+    margin: 0 15px 0 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 19px;
+    background-image: none!important;
+}
+.menu .dropdown i
+{
+    position: relative;
+    z-index: 1001;
+}
+.menu .dropdown i.show
+{
+    color: #6386a4;
+}
+.menu .dropdown .face
+{
+   width: 13px;
 }
