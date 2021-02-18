@@ -1,7 +1,10 @@
 var h = document.documentElement.clientHeight;
 var ph = document.getElementById('flow').clientHeight;
 
-
+if (h < 600) {
+    ph = 640;
+}
+console.log(ph);
 var p = window.pageYOffset;
 var scrolled2;
 var one2 = ph + (ph * 0.8);
@@ -34,7 +37,7 @@ window.onscroll = function () {
         });
     }
     if (scrolled2 > one2) {
-//          $('.india_cow_animate').addClass('opacity')
+        //          $('.india_cow_animate').addClass('opacity')
     }
     if (scrolled2 > two2) {
         //        add class blue cow
@@ -55,27 +58,27 @@ window.onscroll = function () {
             $('.india_cow_animate').removeClass('india_cow_animate_p7'),
             $('.india_cow_animate').removeClass('india_cow_animate_p8'),
             $('.india_cow_animate').addClass('opacity')
-         $('.spain_cow_animate').addClass('opacity')
-            
+        $('.spain_cow_animate').addClass('opacity')
 
 
-            //remove class for egypt cow
-            $('.egypt_cow_animate').removeClass('egypt_cow_animate_p6'),
+
+        //remove class for egypt cow
+        $('.egypt_cow_animate').removeClass('egypt_cow_animate_p6'),
             $('.egypt_cow_animate').removeClass('egypt_cow_animate_p7'),
             $('.egypt_cow_animate').removeClass('egypt_cow_animate_p8')
     }
     if (scrolled2 > three3) {
-//        $('.india_cow_animate').addClass('opacity')
-         $('.india_cow_animate').removeClass('opacity')
-        
+        //        $('.india_cow_animate').addClass('opacity')
+        $('.india_cow_animate').removeClass('opacity')
+
     }
     if (scrolled2 > three2) {
         $('.mexico_cow_animate').addClass('opacity')
-         $('.spain_cow_animate').addClass('opacity')
-        
+        $('.spain_cow_animate').addClass('opacity')
+
     }
     if (scrolled2 > four2) {
-//       
+        //       
         //        add class blue cow
         $('.fix_cow').addClass('fix_cow_p6'),
             //remove class for blue cow
@@ -102,7 +105,7 @@ window.onscroll = function () {
             $('.egypt_cow_animate').removeClass('egypt_cow_animate_p8')
 
         $('.greece_cow_animate').addClass('opacity')
-         $('.spain_cow_animate').addClass('opacity')
+        $('.spain_cow_animate').addClass('opacity')
 
     }
     if (scrolled2 > five2) {
@@ -187,8 +190,8 @@ window.onscroll = function () {
     if (scrolled2 > seven2) {
         //            remove class for blue cow
         $('.fix_cow').addClass('fix_cow_p9'),
-        //            remove class for blue cow
-        $('.fix_cow').removeClass('fix_cow_p3'),
+            //            remove class for blue cow
+            $('.fix_cow').removeClass('fix_cow_p3'),
             $('.fix_cow').removeClass('fix_cow_p6'),
             $('.fix_cow').removeClass('fix_cow_p7'),
             $('.fix_cow').removeClass('fix_cow_p8'),

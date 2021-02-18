@@ -65,7 +65,6 @@
     position: relative;
     z-index: 9;
     right: 0;
-    /*    padding: 0 19vw 0 0vw;*/
 }
 
 .page3 .cow_section .blue_cow_block {
@@ -113,7 +112,6 @@
     pointer-events: none;
     opacity: 1 !important;
     position: absolute;
-    /*        right: -5vw;*/
     right: 13vw;
 }
 
@@ -130,6 +128,7 @@
 
 .page3 .cont_sec .text_box {
     font-family: "Montserrat", sans-serif;
+     font-family:'Montserrat',system-ui;
     font-size: 1.4vw;
     color: black;
     display: flex;
@@ -140,7 +139,6 @@
     border-radius: 37px 37px 0 0;
     padding: 3.1vw;
     position: relative;
-    /*    z-index: 10;*/
 }
 
 
@@ -148,7 +146,6 @@
     position: relative;
     width: 41%;
     height: 18vw;
-    /*    z-index: 11;*/
     background-image: url(../img/page3/p3_left_side@2x.png);
     background-position: 155% 0%;
     background-repeat: no-repeat;
@@ -164,7 +161,6 @@
     width: 29%;
     margin: 3vw 0 0 -13vw;
     right: 0vw;
-    /*    z-index: 10;*/
 }
 
 .page3 .cont_sec .right_box img {

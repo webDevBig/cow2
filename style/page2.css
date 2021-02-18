@@ -49,6 +49,7 @@
 
 .page2 .cont .text_box {
     font-family: "Montserrat", sans-serif;
+     font-family:'Montserrat',system-ui;
     font-size: 1.4vw;
     color: black;
     display: flex;

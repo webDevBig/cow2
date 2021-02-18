@@ -9,6 +9,13 @@
 @import url(page9.css);
 @import url(page10.css);
 
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Montserrat'), url('../Montserrat/Foco.ttf') format('ttf');
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -17,10 +24,6 @@
 
 html {
     height: 100%;
-}
-
-.aos-init {
-/*    overflow-x: hidden;*/
 }
 
 body,
@@ -36,7 +39,8 @@ body {
     justify-content: flex-start;
     align-items: flex-start;
     position: relative;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Montserrat", system-ui;
+/*   font-family:'Montserrat',system-ui;*/
     overflow-x: hidden;
 }
 
@@ -107,7 +111,8 @@ body {
     height: 50px;
     border-radius: 50%;
     cursor: pointer;
-    background-color: #001A31;
+/*    background-color: #001A31;*/
+    background-color:white;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
