@@ -5436,9 +5436,39 @@
     }
 }
 
+@media all and (max-width:393px) and (max-height:851px) {
+    .fix_cow {
+        bottom: 52%;
+    }
+
+    .fix_cow_p6 {
+        bottom: 56%;
+    }
+
+    .fix_cow_p7 {
+        bottom: 57%;
+    }
+
+    .fix_cow_p8 {
+        bottom: 58%;
+    }
+
+    .fix_cow_p9 {
+        bottom: 58%;
+    }
+
+    .page4 {
+        margin: -177vw 0 0;
+    }
+    .page4 .cow_section {
+    bottom: 216px;
+}
+
+}
+
 @media all and (max-width:375px) {
     .page4 {
-        margin: -147vw 0 0;
+        margin: -140vw 0 0;
     }
 
     .fix_cow {

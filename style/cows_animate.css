@@ -1265,6 +1265,20 @@
         padding: 0px 0 669px;
     }
 }
+@media all and (max-width:393px) and (max-height:851px) {
+    
+    .egypt_cow_animate {
+        top: 58vw;
+    }
+
+    .india_cow_animate {
+        top: 60vw;
+    }
+
+    .prl1 {
+        padding: 0px 0 639px;
+    }
+}
 
 @media all and (max-width:375px) {
     .egypt_cow_animate {
