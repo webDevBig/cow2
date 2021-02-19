@@ -40,7 +40,6 @@ body {
     align-items: flex-start;
     position: relative;
     font-family: "Montserrat", system-ui;
-/*   font-family:'Montserrat',system-ui;*/
     overflow-x: hidden;
 }
 
@@ -133,6 +132,7 @@ body {
 
 .menu a.active {
     border: 3px solid white;
+    background-color: white;
 }
 
 .menu a.active .page_icon {

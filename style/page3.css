@@ -9,6 +9,7 @@
     background-size: cover;
     background-color: #E6E9EB;
     z-index: 8;
+    margin: -44vw 0 0;
 }
 
 .page3 h1 {
@@ -128,7 +129,7 @@
 
 .page3 .cont_sec .text_box {
     font-family: "Montserrat", sans-serif;
-     font-family:'Montserrat',system-ui;
+    font-family: 'Montserrat', system-ui;
     font-size: 1.4vw;
     color: black;
     display: flex;
