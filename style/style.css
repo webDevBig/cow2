@@ -66,16 +66,27 @@ body {
 }
 
 .menu .share_box .f {
-    background-image: url(../img/f_img@2x.png);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: 18px;
     border-radius: 50%;
     border: 2px solid white;
     width: 44px;
     height: 44px;
     cursor: pointer;
     margin: 0 15px 0 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.menu .share_box .f_img_w {
+    width: 20px;
+    position: absolute;
+}
+
+.menu .share_box .f_img_g {
+    width: 20px;
+    position: absolute;
+    opacity: 0;
 }
 
 .menu .pages_list {
@@ -110,8 +121,8 @@ body {
     height: 50px;
     border-radius: 50%;
     cursor: pointer;
-/*    background-color: #001A31;*/
-    background-color:white;
+    /*    background-color: #001A31;*/
+    background-color: white;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -280,6 +291,7 @@ body {
     position: relative;
     height: 15vw;
 }
+
 .menu a.dropdown-item {
     cursor: pointer;
     display: flex;
@@ -303,18 +315,18 @@ body {
     justify-content: center;
     align-items: center;
     font-size: 19px;
-    background-image: none!important;
+    background-image: none !important;
 }
-.menu .dropdown i
-{
+
+.menu .dropdown i {
     position: relative;
     z-index: 1001;
 }
-.menu .dropdown i.show
-{
+
+.menu .dropdown i.show {
     color: #6386a4;
 }
-.menu .dropdown .face
-{
-   width: 13px;
+
+.menu .dropdown .face {
+    width: 13px;
 }

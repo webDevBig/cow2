@@ -32,8 +32,13 @@ window.onscroll = function () {
             display: "flex"
         });
         $(".f").css({
-            'background-image': 'url(img/f_gray@2x.png)',
             border: '2px solid #A7A9AC'
+        });
+        $(".f_img_w").css({
+            opacity: 0
+        });
+        $(".f_img_g").css({
+            opacity: 1
         });
     }
     if (scrolled2 > one2) {
@@ -150,8 +155,13 @@ window.onscroll = function () {
             display: "flex"
         });
         $(".f").css({
-            'background-image': 'url(img/f_img@2x.png)',
             border: '2px solid white'
+        });
+         $(".f_img_w").css({
+            opacity: 1
+        });
+        $(".f_img_g").css({
+            opacity: 0
         });
     }
     if (scrolled2 > six2) {
@@ -204,8 +214,13 @@ window.onscroll = function () {
             color: "#A7A9AC"
         });
         $(".f").css({
-            'background-image': 'url(img/f_gray@2x.png)',
             border: '2px solid #A7A9AC'
+        });
+         $(".f_img_w").css({
+            opacity: 0
+        });
+        $(".f_img_g").css({
+            opacity: 1
         });
     }
     if (scrolled2 > eight2) {
@@ -234,8 +249,13 @@ window.onscroll = function () {
             display: "flex"
         });
         $(".f").css({
-            'background-image': 'url(img/f_img@2x.png)',
             border: '2px solid white'
+        });
+         $(".f_img_w").css({
+            opacity: 1
+        });
+        $(".f_img_g").css({
+            opacity: 0
         });
         $('.fa-chevron-up').css({
             display: 'none'
