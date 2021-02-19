@@ -2562,6 +2562,7 @@
     .page6 .cow_section .greece_cow_p3 {
         width: 68%;
         height: 28vw;
+        margin: 0 0 0 3vw;
     }
 
     .page6 .cow_section .greece_cow_block {
@@ -2752,11 +2753,7 @@
 
     .page6 .tadj {
         top: 41vw;
-        padding: 1vw 10vw 0 0;
-    }
-
-    .page6 .cow_section .greece_cow_p3 {
-        right: 3vw;
+        padding: 4vw 8vw 0 0;
     }
 
     .page6 .cow_section .greece_cow_block {
@@ -2900,7 +2897,7 @@
     .fix_cow_p9 {}
 }
 
-@media all and (max-width:1242px) and (max-height:603px) {
+@media all and (max-width:1250px) and (max-height:610px) {
     .page4 {
         margin: -46vw 0 0;
     }
@@ -3014,7 +3011,7 @@
 
 @media all and (max-width:1112px) and (max-height:834px) {
     .page4 {
-        margin: -77vw 0 0;
+        margin: -72vw 0 0;
     }
 
     .page3 .cow_section .brown_cow {
@@ -3310,29 +3307,25 @@
     }
 
     .fix_cow_p3 {
-        bottom: 27.5vw;
+        top: 11vw;
         width: 28.6vw;
         height: 23.2vw;
     }
 
     .fix_cow_p6 {
-        bottom: 31vw;
+        top: 14vw;
     }
 
     .fix_cow_p7 {
-        bottom: 36.5vw;
+        top: 13vw;
     }
 
-    .fix_cow_p8 {
-        bottom: 36.5vw;
-    }
+    .fix_cow_p8 {}
 
-    .fix_cow_p9 {
-        bottom: 36.5vw;
-    }
+    .fix_cow_p9 {}
 
     .fix_cow_p10 {
-        bottom: 42vw;
+        top: 1vw;
     }
 
     .page9 .cow_section .blue_cow_block {
@@ -3644,11 +3637,19 @@
     }
 
     .page4 {
-        margin: -72vw 0 0;
+        margin: -74vw 0 0;
     }
 
     .fix_cow_p3 {
         left: 13vw;
+    }
+
+    .fix_cow_p8 {
+        top: 11vw;
+    }
+
+    .fix_cow_p9 {
+        top: 11vw;
     }
 }
 
@@ -4245,18 +4246,18 @@
     .page9 .tadj {
         background-size: cover;
         background-position: 34% top;
-        top: 74vw;
-        height: 37vw;
+        top: 54vw;
+        height: 40vw;
         padding: 16vw 3vw 0 0;
     }
 
     .page9 .rode {
-        top: -6.2vw;
-        height: 96vw;
+        top: -14.2vw;
+        height: 102vw;
     }
 
     .page9 .sun {
-        top: -51.5vw;
+        top: -57.5vw;
         left: 8vw;
     }
 
@@ -4377,46 +4378,54 @@
         top: 15vw;
     }
 
+    .page8 .cow_section .blue_cow_block {
+        top: 56vw;
+    }
+
     .fix_cow_p3 {
+        top: 45vw;
         width: 38.6vw;
         height: 30.8vw;
-        bottom: 51.5vw;
         left: 11vw;
 
     }
 
     .fix_cow_p6 {
-        bottom: 57.5vw;
+        top: 49vw;
         left: 19vw;
         width: 30vw;
         height: 23.8vw;
     }
 
     .fix_cow_p7 {
-        bottom: 85.5vw;
+        top: 20.5vw;
         left: 31.3vw;
         width: 32vw;
         height: 24.8vw;
     }
 
     .fix_cow_p8 {
+        top: 19vw;
         width: 28vw;
         height: 21.8vw;
-        bottom: 89.5vw;
         left: 42vw;
     }
 
     .fix_cow_p9 {
+        top: 19vw;
         width: 28vw;
         height: 21.8vw;
-        bottom: 89.5vw;
         left: 42vw;
     }
 
     .fix_cow_p10 {
-        bottom: 95vw;
         width: 25vw;
         height: 21vw;
+        top: 16vw;
+    }
+
+    .page4 {
+        margin: -141vw 0 0;
     }
 }
 
@@ -4521,7 +4530,7 @@
     }
 
     .page3 .piramide {
-        padding: 0vw 14.5vw 3vw 0;
+        padding: 0vw 17.5vw 3vw 0;
     }
 
     .page4 .tadj {
@@ -4591,6 +4600,7 @@
 
     .page6 .tadj {
         padding: 0vw 19vw 0 0;
+        top: 47.3vw;
     }
 
     .page6 .blue_cow_block .hills {
@@ -4623,7 +4633,7 @@
     }
 
     .page7 .rode {
-        padding: 21vw 0 0vw 56vw;
+        padding: 0 0 17vw 42vw;
     }
 
     .page7 .cont_sec .dust {
@@ -4637,7 +4647,7 @@
     }
 
     .page8 .tadj {
-        top: 91vw;
+        top: 85vw;
     }
 
     .page8 .blue_cow_block .hills {
@@ -4646,7 +4656,7 @@
 
     .page8 .rode {
         height: 85.5vw;
-        top: -91vw;
+        top: -82vw;
     }
 
     .page8 .cow_section {
@@ -4668,8 +4678,8 @@
     }
 
     .page9 .sun {
-        top: -83.5vw;
-        left: 8vw;
+        top: -78.5vw;
+        left: 9vw;
     }
 
     .page9 .cow_section {
@@ -4686,9 +4696,9 @@
     }
 
     .page9 .tadj {
-        top: 70vw;
+        top: 66vw;
         height: 40vw;
-        padding: 10vw 3vw 0 0;
+        padding: 10vw 7vw 0 0;
     }
 
     .page9 .cont_sec .left_side {
@@ -4705,36 +4715,42 @@
     }
 
     .page4 {
-        margin: -141vw 0 0;
+        margin: -135vw 0 0;
+    }
+
+    .fix_cow_p3 {
+        top: 37vw;
+    }
+
+    .fix_cow_p6 {
+        top: 40vw;
     }
 
     .fix_cow_p7 {
-        bottom: 76.5vw;
         left: 30.3vw;
     }
 
     .fix_cow_p8 {
-        bottom: 81.5vw;
+        top: 22vw;
     }
 
     .fix_cow_p9 {
         width: 28vw;
         height: 21.8vw;
-        bottom: 81.5vw;
         left: 42vw;
+        top: 22vw;
     }
 
     .fix_cow_p10 {
-        bottom: 85vw;
         left: 38vw;
     }
 
     .page8 .cow_section .blue_cow_block {
-        top: 54vw;
+        top: 59vw;
     }
 
     .page9 .cow_section .blue_cow_block {
-        top: -12vw;
+        top: -8vw;
     }
 }
 
@@ -4742,6 +4758,13 @@
 
 
 @media all and (max-width:500px) {
+    .modal.show .modal-dialog {
+        transform: none;
+        width: 100%;
+        height: 100%;
+        margin: 0;
+    }
+
     [data-aos=fade-left] {
         transform: translate3d(0px, 0, 0);
     }
@@ -4769,6 +4792,9 @@
         width: 5vw;
         height: 5vw;
         font-size: 5.1vw;
+        right: 3vw;
+        top: 3vw;
+
     }
 
     .page1,
@@ -5473,41 +5499,47 @@
     .fix_cow_p3 {
         width: 38.6vw;
         height: 30.8vw;
-        bottom: 250px;
         left: 11vw;
+        top: 33vw;
+        transition: all .5s !important;
     }
 
     .fix_cow {
-        bottom: 250px;
+        top: 33vw;
+        transition: all .5s !important;
     }
 
     .fix_cow_p6 {
-        bottom: 240px;
         left: 19vw;
         width: 30vw;
         height: 23.8vw;
+        top: 43vw;
+        transition: all .7s !important;
     }
 
     .fix_cow_p7 {
-        bottom: 350px;
         left: 30.3vw;
+        top: 20vw;
+        transition: all .7s !important;
     }
 
     .fix_cow_p8 {
-        bottom: 375px;
+        top: 17vw;
+        transition: all .7s !important;
     }
 
     .fix_cow_p9 {
-        bottom: 375px;
+        top: 17vw;
+        transition: all .7s !important;
     }
 
     .fix_cow_p10 {
-        bottom: 414px;
         left: 38vw;
+        top: 13vw;
     }
 
     .page4 {
-        margin: -132vw 0 0;
+        margin: -128vw 0 0;
     }
 
     .page9 .cow_section .blue_cow_block {
@@ -5532,6 +5564,10 @@
 
 
 @media all and (max-width:425px) {
+    .page3 {
+        margin: -182vw 0 0;
+    }
+
     .page8 .cow_section .american_cow_block {
         top: 72vw;
         left: 156px;
@@ -5541,12 +5577,12 @@
         width: 64%;
         height: 113px;
         bottom: 165px;
-        left: 35vw;
+        left: 32vw;
         transform: rotate(13deg);
     }
 
     .page4 {
-        margin: -135vw 0 0;
+        margin: -181vw 0 0;
     }
 
     .page3 .cow_section {
@@ -5609,25 +5645,22 @@
         top: -82px;
     }
 
-    .fix_cow_p6 {
-        bottom: 246px;
-    }
-
     .fix_cow_p7 {
-        bottom: 250px;
+        top: 57vw;
     }
 
     .fix_cow_p8 {
-        bottom: 265px;
+        top: 56vw;
+
     }
 
     .fix_cow_p9 {
-        bottom: 265px;
+        top: 56vw;
+
     }
 
     .fix_cow_p10 {
-        bottom: 0;
-        top: 113px;
+        top: 55vw;
     }
 
     .page8 .cow_section .blue_cow_block {
@@ -5653,7 +5686,7 @@
 
 @media all and (max-width:414px) {
     .page4 {
-        margin: -147vw 0 0;
+        margin: -176vw 0 0;
     }
 
     .page5 .tadj {
@@ -5683,28 +5716,14 @@
         height: -webkit-fit-content;
         height: fit-content;
     }
+
+    .fix_cow_p10 {
+        top: 52vw;
+    }
 }
 
 @media all and (max-width:393px) and (max-height:851px) {
-    .fix_cow {
-        bottom: 52%;
-    }
 
-    .fix_cow_p6 {
-        bottom: 56%;
-    }
-
-    .fix_cow_p7 {
-        bottom: 57%;
-    }
-
-    .fix_cow_p8 {
-        bottom: 58%;
-    }
-
-    .fix_cow_p9 {
-        bottom: 58%;
-    }
 
     .page4 {
         margin: -177vw 0 0;
@@ -5714,16 +5733,19 @@
         bottom: 216px;
     }
 
+    .fix_cow_p10 {
+        top: 56vw;
+    }
+
+    .page3 {
+        margin: -244vw 0 0;
+    }
+
 }
 
 @media all and (max-width:375px) {
     .page4 {
-        margin: -140vw 0 0;
-    }
-
-    .fix_cow {
-        bottom: 0;
-        top: 103px;
+        margin: -185vw 0 0;
     }
 
     .grass_box {
@@ -5803,7 +5825,7 @@
 
     .page6 .tadj {
         top: 22px;
-        padding: 0 90px 20px 0;
+        padding: 0 18px 20px 0;
         height: 226px;
     }
 
@@ -5833,27 +5855,25 @@
     }
 
     .fix_cow_p6 {
-        bottom: 279px;
         left: 19vw;
         width: 30vw;
         height: 23.8vw;
     }
 
     .fix_cow_p7 {
-        top: 110px;
         left: 30.3vw;
     }
 
-    .fix_cow_p8 {
-        top: 107px;
-    }
+    .fix_cow_p8 {}
 
-    .fix_cow_p9 {
-        top: 107px
-    }
+    .fix_cow_p9 {}
 
     .sec_betwen .grass_box {
         bottom: 151px;
+    }
+
+    .page3 {
+        margin: -198vw 0 0;
     }
 }
 
@@ -5900,6 +5920,14 @@
 
     .page9 .cow_section .blue_cow_block {
         top: -93px;
+    }
+
+    .fix_cow_p10 {
+        top: 48vw;
+    }
+
+    .page4 {
+        margin: -192vw 0 0;
     }
 
 }
@@ -5977,8 +6005,15 @@
         height: 186px;
     }
 
-    .fix_cow10 {
-        bottom: 0;
-        top: 88px;
+    .page4 {
+        margin: -214vw 0 0;
+    }
+
+    .fix_cow_p10 {
+        top: 26vw;
+    }
+
+    .page4 {
+        margin: -200vw 0 0;
     }
 }
