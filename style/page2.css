@@ -67,6 +67,11 @@
 
 .page2 .cont .text_box a {
     cursor: pointer;
+    color: black;
+}
+.page2 .cont .text_box a:active,.page2 .cont .text_box a:hover
+{
+    color: black;
 }
 
 .page2 .cont h1 {
