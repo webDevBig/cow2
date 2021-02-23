@@ -160,13 +160,13 @@
 }
 
 .page7 .cont_sec .text_box {
-    font-family: "Montserrat", sans-serif;
+   font-family: 'Montserrat', sans-serif;
     font-size: 1.4vw;
     color: black;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: f;
+    align-items: center;
     background-color: #F9F8F2;
     border-radius: 37px 37px 0 0;
     padding: 3.1vw;

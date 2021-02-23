@@ -167,11 +167,10 @@
     align-items: flex-start;
     position: absolute;
     bottom: -0.4vw;
-/*    z-index: 9;*/
 }
 
 .page4 .cont_sec .text_box {
-    font-family: "Montserrat", sans-serif;
+   font-family: 'Montserrat', sans-serif;
     font-size: 1.4vw;
     color: black;
     display: flex;

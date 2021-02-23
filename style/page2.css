@@ -8,11 +8,11 @@
     align-items: center;
     padding: 5vw 0 0;
     position: relative;
-    background-position: top;
     background-repeat: no-repeat;
-    background-size: cover;
-    object-fit: cover;
-    pointer-events: none;
+}
+
+#second {
+    position: relative;
 }
 
 .cloud_p2 {
@@ -41,13 +41,12 @@
     justify-content: center;
     align-items: center;
     position: relative;
-    z-index: 7;
+    z-index: 10;
     top: -4vw;
 }
 
 .page2 .cont .text_box {
-    font-family: "Montserrat", sans-serif;
-     font-family:'Montserrat',system-ui;
+    font-family: 'Montserrat', sans-serif;
     font-size: 1.4vw;
     color: black;
     display: flex;
@@ -59,10 +58,15 @@
     border-radius: 37px;
     padding: 30px 47px;
     position: relative;
+    cursor: default;
 }
 
 .page2 .cont .text_box img {
     width: 68px;
+}
+
+.page2 .cont .text_box a {
+    cursor: pointer;
 }
 
 .page2 .cont h1 {

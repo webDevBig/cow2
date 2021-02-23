@@ -24,7 +24,6 @@
     position: absolute;
     top: -5.2vw;
     right: 0;
-/*    z-index: 9;*/
 }
 
 .page5 .tadj {
@@ -182,7 +181,7 @@
 }
 
 .page5 .cont_sec .text_box {
-    font-family: "Montserrat", sans-serif;
+   font-family: 'Montserrat', sans-serif;
     font-size: 1.4vw;
     color: black;
     display: flex;

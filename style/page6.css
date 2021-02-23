@@ -203,7 +203,6 @@
     pointer-events: none;
     opacity: 1 !important;
     position: relative;
-    /*    right: -20vw;*/
     display: flex;
     justify-content: center;
     align-items: center;
@@ -236,7 +235,7 @@
 }
 
 .page6 .cont_sec .text_box {
-    font-family: "Montserrat", sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 1.4vw;
     color: black;
     display: flex;
